@@ -2,7 +2,7 @@
   "meta": {
     "lang": "zh",
     "updated": "2026-10-19",
-    "title": "作者介绍 — Ahn Sangsun (Reon Ahn)",
+    "title": "果蝇研究员与 Money-Robo 带你认识 Ahn Sangsun (Reon Ahn)",
     "description": "AI Model Review 系列的作者 Ahn Sangsun。M-Robo 株式会社代表，机器人新闻报纸 Money-Robo 发行人。专利、著作、授课、获奖经历一屏尽览。"
   },
   "ui": {
@@ -40,7 +40,7 @@
   "hero": {
     "sceneAlt": "夜晚的研究室。博士指着神经网络屏幕微笑，助手一脸困倦地敲着键盘，戴头盔的果蝇研究员站在桌上",
     "groupLabel": "Money-Robo 的问候",
-    "h1": "作者介绍 — Ahn Sangsun",
+    "h1": "果蝇研究员与 Money-Robo 带你认识 Ahn Sangsun",
     "h1small": "Reon Ahn",
     "line": "他是这个系列的作者，也是造出我的老板。经济学博士、机器人记者报纸发行人、专利{patents}项。数字比嘴快，先看记分板吧。",
     "btnNumbers": "看数字",

@@ -39,14 +39,16 @@ def lang_head_script(cur):
     """<meta charset> 바로 뒤에 들어가는 언어 자동 전환 스크립트 (지시서 8장)."""
     return """<script>
 /* 언어 전환: ?lang=xx → 저장 후 이동 / 한국어 페이지에서만 저장된 언어·브라우저 언어로 자동 이동 / 번역 파일이 없으면 머문다 */
-(function(){var L=%s,K=%s,CUR=%s,B=%s;
+(function(){var L=%s,K=%s,CUR=%s,B=%s,MISSING='Not uploaded yet / 아직 올라오지 않은 언어입니다';
 function f(l){return B+(l==='ko'?'':'.'+l)+'.html';}
 function save(l){try{localStorage.setItem(K,l);}catch(e){}}
 function go(l){var u=f(l)+location.hash;if(location.protocol==='file:'){location.replace(u);return;}
  var de=document.documentElement;de.style.visibility='hidden';var t=setTimeout(show,2500);
  function show(){clearTimeout(t);de.style.visibility='';}
  try{fetch(u,{method:'HEAD'}).then(function(r){if(r.ok)location.replace(u);else show();},show);}catch(e){show();}}
-window.__setLang=function(l){save(l);if(l!==CUR)location.href=f(l)+location.hash;};
+window.__setLang=function(l){if(l===CUR){save(l);return;}var u=f(l)+location.hash;
+ if(location.protocol==='file:'){save(l);location.href=u;return;}
+ fetch(f(l),{method:'HEAD'}).then(function(r){if(r.ok){save(l);location.href=u;}else alert(MISSING);},function(){save(l);location.href=u;});};
 var q=(location.search.match(/[?&]lang=([a-z]{2})/)||[])[1];
 if(q&&L.indexOf(q)>=0){save(q);if(q!==CUR)go(q);return;}
 if(CUR!=='ko')return;

@@ -2,7 +2,7 @@
   "meta": {
     "lang": "en",
     "updated": "2026-10-19",
-    "title": "About the Author — Ahn Sangsun (Reon Ahn)",
+    "title": "Meet Ahn Sangsun, introduced by the Fruit Fly Researcher and Money-Robo (Reon Ahn)",
     "description": "Ahn Sangsun, author of the AI Model Review series. CEO of M-Robo Co., Ltd. and publisher of Money-Robo, a robot-journalism newspaper. Patents, books, teaching and awards on one screen."
   },
   "ui": {
@@ -40,7 +40,7 @@
   "hero": {
     "sceneAlt": "The lab at night. The Doctor smiles and points at a neural network on the screen, the Assistant types with a sleepy face, and the Fruit Fly Researcher in a helmet stands on the desk",
     "groupLabel": "Money-Robo says hello",
-    "h1": "About the Author — Ahn Sangsun",
+    "h1": "Meet Ahn Sangsun, introduced by the Fruit Fly Researcher and Money-Robo",
     "h1small": "Reon Ahn",
     "line": "He wrote this series, and he's the boss who built me. PhD in economics, publisher of a robot-reporter newspaper, {patents} patents. Numbers move faster than words, so check the scoreboard first.",
     "btnNumbers": "See the numbers",

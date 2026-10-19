@@ -2,7 +2,7 @@
   "meta": {
     "lang": "uz",
     "updated": "2026-10-19",
-    "title": "Muallif haqida — Ahn Sangsun (Reon Ahn)",
+    "title": "Drozofila tadqiqotchisi va Money-Robo tanishtiradi: Ahn Sangsun (Reon Ahn)",
     "description": "AI Model Review turkumi muallifi Ahn Sangsun. M-Robo kompaniyasi rahbari, robot-jurnalistika gazetasi Money-Robo noshiri. Patentlar, kitoblar, ma’ruzalar va mukofotlar bir sahifada."
   },
   "ui": {
@@ -40,7 +40,7 @@
   "hero": {
     "sceneAlt": "Tungi laboratoriya. Doktor neyron tarmoq ekraniga ishora qilib kulmoqda, Yordamchi uyqusiragan holda klaviaturada yozmoqda, dubulgʻa kiygan Drozofila tadqiqotchisi esa stol ustida turibdi",
     "groupLabel": "Money-Robo salomi",
-    "h1": "Muallif haqida — Ahn Sangsun",
+    "h1": "Drozofila tadqiqotchisi va Money-Robo tanishtiradi: Ahn Sangsun",
     "h1small": "Reon Ahn",
     "line": "Bu turkumni yozgan odam, ayni paytda meni yaratgan xoʻjayinim. Iqtisodiyot fanlari doktori, robot-jurnalist gazetasi noshiri, {patents} ta patent. Raqamlar soʻzdan tezroq, shuning uchun avval hisob taxtasiga qarang.",
     "btnNumbers": "Raqamlarda koʻrish",

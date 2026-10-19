@@ -2,7 +2,7 @@
   "meta": {
     "lang": "ko",
     "updated": "2026-10-19",
-    "title": "저자 소개 — 안상선 (Reon Ahn)",
+    "title": "초파리 연구원과 Money-Robo가 소개하는 안상선 (Reon Ahn)",
     "description": "AI Model Review 시리즈의 저자 안상선. (주)M-Robo 대표, 로봇저널리즘 신문 Money-Robo 발행인. 특허, 저서, 강의, 수상 이력을 한 화면에."
   },
   "ui": {
@@ -40,7 +40,7 @@
   "hero": {
     "sceneAlt": "밤의 연구실. 박사가 신경망 화면을 가리키며 웃고, 조수는 졸린 얼굴로 키보드를 치고, 헬멧을 쓴 초파리 연구원이 책상 위에 서 있다",
     "groupLabel": "Money-Robo의 인사",
-    "h1": "저자 소개 — 안상선",
+    "h1": "초파리 연구원과 Money-Robo가 소개하는 안상선",
     "h1small": "Reon Ahn",
     "line": "이 시리즈를 쓴 사람이자, 나를 만든 사장님이야. 경제학 박사, 로봇기자 신문 발행인, 특허 {patents}건. 말보다 숫자가 빠르니까 점수판부터 봐.",
     "btnNumbers": "숫자로 보기",
