@@ -1,0 +1,1187 @@
+{
+  "meta": {
+    "lang": "zh",
+    "updated": "2026-10-19",
+    "title": "作者介绍 — Ahn Sangsun (Reon Ahn)",
+    "description": "AI Model Review 系列的作者 Ahn Sangsun。M-Robo 株式会社代表，机器人新闻报纸 Money-Robo 发行人。专利、著作、授课、获奖经历一屏尽览。"
+  },
+  "ui": {
+    "skip": "跳到正文",
+    "langLabel": "语言",
+    "langBanner": "选择语言",
+    "tocLabel": "本页目录",
+    "toc": {
+      "numbers": "一览",
+      "about": "简介",
+      "work": "经历",
+      "robo": "Money-Robo",
+      "ip": "专利",
+      "pubs": "著作·论文",
+      "teach": "授课",
+      "elearn": "在线课程",
+      "proj": "公共项目",
+      "awards": "获奖",
+      "edu": "学历·活动"
+    },
+    "names": {
+      "fly": "果蝇研究员",
+      "robo": "Money-Robo",
+      "asst": "助手"
+    },
+    "talkLabel": "研究室成员的对话",
+    "now": "至今",
+    "all": "全部",
+    "countFmt": "{label}{n}",
+    "rangeFmt": "{from} ~ {to}",
+    "zoomLabel": "放大查看图片",
+    "close": "关闭",
+    "updatedFmt": "最后更新 {d}"
+  },
+  "hero": {
+    "sceneAlt": "夜晚的研究室。博士指着神经网络屏幕微笑，助手一脸困倦地敲着键盘，戴头盔的果蝇研究员站在桌上",
+    "groupLabel": "Money-Robo 的问候",
+    "h1": "作者介绍 — Ahn Sangsun",
+    "h1small": "Reon Ahn",
+    "line": "他是这个系列的作者，也是造出我的老板。经济学博士、机器人记者报纸发行人、专利{patents}项。数字比嘴快，先看记分板吧。",
+    "btnNumbers": "看数字",
+    "btnContact": "联系方式",
+    "btnHome": "回到系列首页"
+  },
+  "numbers": {
+    "h2": "数字一览",
+    "lead": "下面的数字直接从本页列出的清单中统计得出。点击格子即可跳到相应清单。",
+    "kpi": {
+      "patents": [
+        "授权专利",
+        "另有申请中10项"
+      ],
+      "awards": [
+        "获奖",
+        "部长·厅长级{minister}项"
+      ],
+      "schools": [
+        "任教学校",
+        "目前在{teachNow}所学校授课"
+      ],
+      "pubs": [
+        "论文·发表",
+        "著作1部"
+      ],
+      "proj": [
+        "公共项目",
+        "总负责 PM {pm}项"
+      ],
+      "elearn": [
+        "在线课程",
+        "STEP 内容专家"
+      ]
+    }
+  },
+  "talk": {
+    "numbers": [
+      {
+        "who": "fly",
+        "mood": "point",
+        "text": "获奖{awards}个？其中黑客松有几个？"
+      },
+      {
+        "who": "robo",
+        "mood": "chart",
+        "text": "{hack}个。全是熬夜写代码拿下的。这买卖稳赚不赔。"
+      },
+      {
+        "who": "asst",
+        "mood": "firm",
+        "text": "我按下面的清单一项项重新数过了。黑客松{hack}项，部长·厅长级奖项{minister}项。"
+      }
+    ],
+    "robo": [
+      {
+        "who": "fly",
+        "mood": "clip",
+        "text": "新闻写得这么快，写错的地方谁来挑？"
+      },
+      {
+        "who": "robo",
+        "mood": "happy",
+        "text": "数字直接从公告里拿。怀疑归你，速度归我。"
+      },
+      {
+        "who": "asst",
+        "mood": "spark",
+        "text": "Money-Robo 于2019年8月创刊。已经超过{roboYears}年了呢。"
+      }
+    ],
+    "teach": [
+      {
+        "who": "fly",
+        "mood": "coffee",
+        "text": "学校有{schools}所？就算有翅膀也飞不过来。"
+      },
+      {
+        "who": "robo",
+        "mood": "smile",
+        "text": "这叫分散投资。现在也同时持仓{teachNow}所。"
+      },
+      {
+        "who": "asst",
+        "mood": "sigh",
+        "text": "表里一共{courses}项。同一所学校如果院系不同，就分开记录了。"
+      }
+    ],
+    "edu": [
+      {
+        "who": "fly",
+        "mood": "arms",
+        "text": "说到底是经济学博士在教 AI。难怪你满嘴都是钱。"
+      },
+      {
+        "who": "robo",
+        "mood": "wow",
+        "text": "…被发现了。不过整个系列的判定都靠数据。"
+      },
+      {
+        "who": "asst",
+        "mood": "smile",
+        "text": "有了新课程或新专利，我会马上更新这份记录。最后修改的日期写在页面最下方。"
+      }
+    ]
+  },
+  "about": {
+    "h2": "简介",
+    "infoH": "Basic Info",
+    "rows": [
+      [
+        "姓名",
+        "Ahn Sangsun (Ahn Sang Sun · Reon Ahn)"
+      ],
+      [
+        "现职",
+        "M-Robo 株式会社代表 · Money-Robo 发行人"
+      ],
+      [
+        "学位",
+        "经济学博士（东国大学，微观数理经济学）"
+      ],
+      [
+        "电子邮件",
+        "sangsun.ahn@gmail.com"
+      ]
+    ],
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/saladent/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/sangsun.ahn.5"
+      },
+      {
+        "label": "ahnboat.xyz",
+        "url": "https://ahnboat.xyz"
+      },
+      {
+        "label": "Money-Robo",
+        "url": "https://money-robo.com/home/money-robo-intro/"
+      },
+      {
+        "label": "论文·项目 (Notion)",
+        "url": "https://www.notion.so/mrobo2016/Reon-Ahn-s-Project-04e6d05b2f7744bbba3df0671ca4a085"
+      }
+    ],
+    "bioH": "他是怎样的人",
+    "bio": [
+      "先后任职于韩国电气安全公社和每日经济新闻，之后创办了每日经济的外部创业企业<mark>M-Robo 株式会社</mark>，并担任代表。M-Robo 是以媒体内部创业起步的媒体创业公司，曾为国民日报提供机器人记者（StockBot）服务，并与韩国互联网振兴院、韩国言论振兴财团、韩国广播通信电波振兴院等机构开展过多个项目。目前发行自有的 AI 新闻报纸<mark>Money-Robo</mark>。",
+      "担任代表期间，曾在亚洲开放数据黑客松中夺冠，并因数据创业领域的贡献两次获得行政安全部部长奖。他是人工智能·区块链领域5项专利的发明人，著有《AI犯罪与自我防御》。",
+      "曾在韩国技术教育大学在线终身教育院开发金融科技·统计学·人工智能在线课程内容，并在国民大学、湖西大学等多所大学讲授数据与人工智能课程。"
+    ]
+  },
+  "work": {
+    "h2": "经历",
+    "lead": "越靠上越新。青绿色边框表示目前仍在从事的工作。",
+    "items": [
+      {
+        "title": "媒体初创企业 M-Robo 代表",
+        "from": "2016.06",
+        "to": ""
+      },
+      {
+        "title": "机器人新闻网络报纸“Money-Robo”发行人",
+        "from": "2019.08",
+        "to": ""
+      },
+      {
+        "title": "韩国能率协会(KMA)金融科技支援中心 兼职教授 — 金融数据分析·人工智能",
+        "from": "2020.07",
+        "to": "2025.11"
+      },
+      {
+        "title": "韩国智能信息社会振兴院(NIA) 数据顾问",
+        "from": "2022.03",
+        "to": "2022.12"
+      },
+      {
+        "title": "亚洲经济新闻 Fintech·Data-Science 领域外聘讲师",
+        "from": "2019.08",
+        "to": "2022.07"
+      },
+      {
+        "title": "每经传媒集团 内部创业团队 团长",
+        "from": "2015.11",
+        "to": "2016.05"
+      },
+      {
+        "title": "每日经济新闻 编辑局 经济经营研究所 研究员",
+        "from": "2014.04",
+        "to": "2015.10"
+      },
+      {
+        "title": "韩国电气安全公社 财务管理部·劳务福利部 职员",
+        "from": "2011.02",
+        "to": "2014.04"
+      },
+      {
+        "title": "韩国农村经济研究院 森林政策研究室 实习研究员",
+        "from": "2009.07",
+        "to": "2011.01"
+      },
+      {
+        "title": "每日经济新闻 编辑局 经济经营研究所 实习研究员",
+        "from": "2008.07",
+        "to": "2009.07"
+      },
+      {
+        "title": "世明大学 产学合作团 研究助理",
+        "from": "2008.01",
+        "to": "2008.07"
+      }
+    ]
+  },
+  "robo": {
+    "h2": "机器人新闻项目 — Money-Robo",
+    "lead": "这是一份读取数据、自动撰写证券新闻的网络报纸。本系列中的 Money-Robo 角色就是这项服务的吉祥物。",
+    "imgAlt": "Money-Robo 主页。机器人标志下方滚动着指数行情条，KOSDAQ 个股的股价图旁列出自动撰写的公告新闻标题",
+    "caption": "Money-Robo 主页 — 配有股价图的自动撰写公告新闻",
+    "cardH": "做什么",
+    "items": [
+      "<b>2016.06 ~</b> 创办媒体初创企业 M-Robo，任代表",
+      "<b>2019.08 ~</b> 发行基于机器人新闻的网络报纸“Money-Robo”",
+      "为国民日报提供机器人记者<b>StockBot</b>服务",
+      "直接从数据生成证券公告·指数·美国股市新闻",
+      "相关专利：股票新闻生成装置(10-2135712)、加密货币分析新闻服务(10-2618473)"
+    ],
+    "links": [
+      {
+        "label": "查看服务介绍",
+        "url": "https://money-robo.com/home/money-robo-intro/"
+      },
+      {
+        "label": "介绍视频 (YouTube)",
+        "url": "https://www.youtube.com/watch?v=CXmNDfDT1j0"
+      }
+    ]
+  },
+  "ip": {
+    "h2": "专利 — 授权{patents}项",
+    "lead": "点击领域即可筛选。点击专利证书可放大查看。此外还有“加密货币等虚拟资产波动性测量方法”(10-2019-0010699)等10项专利申请。",
+    "chipsLabel": "筛选专利领域",
+    "fields": {
+      "j": "机器人新闻",
+      "e": "能源·气候",
+      "bc": "区块链",
+      "r": "推荐"
+    },
+    "noFmt": "第 {no} 号",
+    "datesFmt": "申请 {filed} · 授权 {reg}",
+    "ownerFmt": "专利权人 {owner}",
+    "altFmt": "专利证书第{no}号",
+    "capFmt": "专利第{no}号 — {title}",
+    "tlH": "从申请到授权",
+    "tlSrFmt": "{title}：申请 {filed}，授权 {reg}，约{years}年",
+    "tlNote": "条形左端为申请日，右端为授权日。从申请到授权平均用时<b>{avg}年</b>。",
+    "items": [
+      {
+        "no": "10-2135712",
+        "title": "股票新闻生成装置及方法",
+        "field": "j",
+        "app": "10-2017-0183467",
+        "filed": "2017.12.29",
+        "reg": "2020.07.14",
+        "owner": "M-Robo 株式会社",
+        "img": "p1"
+      },
+      {
+        "no": "10-2486672",
+        "title": "利用太阳能数据的酷暑灾害预测系统及方法",
+        "field": "e",
+        "app": "10-2018-0150546",
+        "filed": "2018.11.29",
+        "reg": "2023.01.05",
+        "owner": "M-Robo 株式会社",
+        "img": "p2"
+      },
+      {
+        "no": "10-2555652",
+        "title": "通过监测区块链数据的异常征兆检测系统及方法",
+        "field": "bc",
+        "app": "10-2018-0150559",
+        "filed": "2018.11.29",
+        "reg": "2023.07.11",
+        "owner": "Ahn Sangsun",
+        "img": "p3"
+      },
+      {
+        "no": "10-2618473",
+        "title": "利用机器人新闻的加密货币分析新闻内容服务系统及其服务方法",
+        "field": "j",
+        "app": "10-2018-0050193",
+        "filed": "2018.04.30",
+        "reg": "2023.12.21",
+        "owner": "Ahn Sangsun",
+        "img": "p4"
+      },
+      {
+        "no": "10-2666665",
+        "title": "图像推荐方法、装置、计算机可读记录介质及计算机程序",
+        "field": "r",
+        "app": "10-2021-0060289",
+        "filed": "2021.05.10",
+        "reg": "2024.05.13",
+        "owner": "M-Robo 株式会社",
+        "img": "p5"
+      }
+    ]
+  },
+  "pubs": {
+    "h2": "著作与论文",
+    "book": {
+      "title": "《AI犯罪与自我防御》",
+      "alt": "《AI犯罪与自我防御》封面。蓝色斜线花纹边框内有书名、简介文字和作者照片",
+      "caption": "《AI犯罪与自我防御》 · CommunicationBooks，2025 · 人工智能丛书",
+      "desc": "本书收集了 AI 被用于犯罪的真实案例，并从犯罪经济学的角度追问犯罪者为何选择 AI。基于犯罪者同样会权衡成本与收益的视角，阐释 AI 如何改变了犯罪的成本结构与盈利模式。"
+    },
+    "chipsLabel": "筛选论文类型",
+    "kinds": {
+      "j": "学术期刊",
+      "c": "学术会议·发表",
+      "o": "报告"
+    },
+    "soloLabel": "独著",
+    "items": [
+      {
+        "date": "2025.07",
+        "title": "利用国民养老保障面板数据的家庭支出预测模型研究：基于人工智能模型的方法",
+        "src": "《未来社会》第16卷第2期 · 学术登载期刊",
+        "kind": "j",
+        "solo": true,
+        "url": "https://ifso.iscu.ac.kr/02_res/sub2_1_view.asp?idx=508"
+      },
+      {
+        "date": "2025.05",
+        "title": "利用国民养老保障面板数据的家庭支出预测模型研究：人工智能方法",
+        "src": "国民养老保障面板学术会议发表 · 国民年金公团 国民年金研究院",
+        "kind": "c",
+        "solo": false,
+        "url": "https://drive.google.com/file/d/1LbYLSxtmmWZGBAwKHrnaLMIA-RX4dCD0/view?usp=sharing"
+      },
+      {
+        "date": "2025.03",
+        "title": "基于 SNS 文本的疑似毒品交易检测算法研究：以模式与语境分析为中心",
+        "src": "《未来社会》第16卷第1期 · 学术登载期刊",
+        "kind": "j",
+        "solo": true,
+        "url": "https://ifso.iscu.ac.kr/02_res/sub2_1_view.asp?idx=490"
+      },
+      {
+        "date": "2024.11",
+        "title": "面向金融领域异常检测模型安全的基于统计的对抗数据应对方案 — 实证分析与模拟结果",
+        "src": "《未来社会》第15卷第3期 · 学术登载期刊",
+        "kind": "j",
+        "solo": true,
+        "url": "https://ifso.iscu.ac.kr/02_res/sub2_1_view.asp?idx=464"
+      },
+      {
+        "date": "2024.06",
+        "title": "利用人工智能基于虚拟角色特征的 SNS 帖子检测解决方案",
+        "src": "首尔媒体研究生院大学 2024 Summer Newmedia Party 海报发表",
+        "kind": "c",
+        "solo": false,
+        "url": ""
+      },
+      {
+        "date": "2024.05",
+        "title": "利用工伤面板数据的机器学习模型",
+        "src": "第10届工伤保险面板学术会议海报发表 · 劳动福利研究院",
+        "kind": "c",
+        "solo": false,
+        "url": ""
+      },
+      {
+        "date": "2024.02",
+        "title": "虚拟资产时间序列数据的分析与预测 — 时间序列模型与人工智能模型的比较及改进建议",
+        "src": "《未来社会》第15卷第1期 · 学术登载期刊",
+        "kind": "j",
+        "solo": true,
+        "url": "https://ifso.iscu.ac.kr/02_res/sub2_1_view.asp?idx=379"
+      },
+      {
+        "date": "2021.12",
+        "title": "加密货币资产信息效率研究",
+        "src": "《未来社会》第12卷第2期",
+        "kind": "j",
+        "solo": true,
+        "url": "https://ifso.iscu.ac.kr/02_res/sub2_1_view.asp?idx=204"
+      },
+      {
+        "date": "2018",
+        "title": "ERC-20 经济绩效分析",
+        "src": "以太坊开发者大会(EDCON) 2018 发表",
+        "kind": "c",
+        "solo": false,
+        "url": "https://decenter.kr/NewsView/1VJB0BLUD4"
+      },
+      {
+        "date": "—",
+        "title": "基于媒体的区块链经济绩效与效率分析",
+        "src": "韩国言论学会成立50周年学术会议",
+        "kind": "c",
+        "solo": false,
+        "url": ""
+      },
+      {
+        "date": "2017",
+        "title": "中老年个体经营市场研究 — 以新创业与既有创业比较为中心",
+        "src": "2017 就业面板调查学术会议 · 韩国雇佣信息院、雇佣劳动部",
+        "kind": "c",
+        "solo": false,
+        "url": ""
+      },
+      {
+        "date": "—",
+        "title": "人工智能与机器人新闻",
+        "src": "KISTI MARKET REPORT 人工智能特辑",
+        "kind": "o",
+        "solo": false,
+        "url": ""
+      }
+    ]
+  },
+  "teach": {
+    "h2": "授课经历",
+    "lead": "这是迄今为止授课的学校与课程。条形表示授课期间，黄色竖线表示今天。",
+    "chipsLabel": "筛选授课经历",
+    "chipAll": "全部{n}项",
+    "chipNow": "目前授课中{n}项",
+    "chipProf": "兼职·客座教授{n}项",
+    "legendNow": "目前授课中",
+    "legendPast": "已结束的课程",
+    "legendToday": "今天",
+    "barFmt": "{school} {subjects}，{from}至{to}",
+    "tableH": "完整表格",
+    "th": [
+      "学校 · 所属",
+      "讲授课程",
+      "职位",
+      "期间"
+    ],
+    "items": [
+      {
+        "school": "嘉泉大学",
+        "dept": "经营学院 会计税务系",
+        "subjects": "Python 与会计数据分析",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2026.09",
+        "to": ""
+      },
+      {
+        "school": "国立公州大学",
+        "dept": "绿色智能建筑研究生院",
+        "subjects": "利用 AI 的数据分析、利用 AI 的智能工艺优化",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2026.03",
+        "to": ""
+      },
+      {
+        "school": "京畿大学",
+        "dept": "中小企业 AI 融合系",
+        "subjects": "AI 编程、智能制造",
+        "role": "兼职教授",
+        "roleType": "prof",
+        "from": "2026.03",
+        "to": ""
+      },
+      {
+        "school": "韩国技术教育大学",
+        "dept": "就业服务政策系",
+        "subjects": "劳动经济学",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2026.03",
+        "to": ""
+      },
+      {
+        "school": "科学技术联合研究生院大学(UST)",
+        "dept": "",
+        "subjects": "人工智能（公共课程）",
+        "role": "兼职教授",
+        "roleType": "prof",
+        "from": "2025.03",
+        "to": "2025.12"
+      },
+      {
+        "school": "韩国开放网络大学",
+        "dept": "人工智能融合系",
+        "subjects": "面向商业的数据科学",
+        "role": "客座教授",
+        "roleType": "prof",
+        "from": "2025.09",
+        "to": ""
+      },
+      {
+        "school": "乙支大学",
+        "dept": "临床病理系",
+        "subjects": "卫生统计学与 R",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2024.03",
+        "to": ""
+      },
+      {
+        "school": "国立韩巴大学",
+        "dept": "经济学系",
+        "subjects": "计量经济学、股票市场与股价",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2024.09",
+        "to": "2026.06"
+      },
+      {
+        "school": "韩南大学",
+        "dept": "塔尔梅奇通识融合学院",
+        "subjects": "生成式 AI 应用战略",
+        "role": "兼职教授·讲师",
+        "roleType": "prof",
+        "from": "2024.09",
+        "to": ""
+      },
+      {
+        "school": "首尔媒体研究生院大学",
+        "dept": "人工智能应用软件系",
+        "subjects": "财务会计与投资管理、AI Business case study（英语授课）、基于数据的会计分析与投资战略、Financial Accounting and Investment Management（英语授课）",
+        "role": "兼职教授",
+        "roleType": "prof",
+        "from": "2024.03",
+        "to": ""
+      },
+      {
+        "school": "国民大学",
+        "dept": "软件融合研究生院",
+        "subjects": "机器学习项目、AI 应用系统",
+        "role": "兼职教授",
+        "roleType": "prof",
+        "from": "2023.09",
+        "to": ""
+      },
+      {
+        "school": "湖西大学",
+        "dept": "经营学部",
+        "subjects": "经营统计、资料分析",
+        "role": "兼职教授",
+        "roleType": "prof",
+        "from": "2023.03",
+        "to": ""
+      },
+      {
+        "school": "首尔综合科学研究生院(ASSIST)",
+        "dept": "金融 MBA 课程",
+        "subjects": "金融大数据分析模块",
+        "role": "客座教授",
+        "roleType": "prof",
+        "from": "2022.09",
+        "to": "2023.06"
+      },
+      {
+        "school": "崇实大学",
+        "dept": "金融学部",
+        "subjects": "金融机器学习、金融大数据分析等",
+        "role": "兼职教授",
+        "roleType": "prof",
+        "from": "2021.03",
+        "to": "2023.02"
+      },
+      {
+        "school": "江南大学",
+        "dept": "工科学院 ICT 学部",
+        "subjects": "公共数据理解与分析、数据统计分析、数据库基础、老年数据分析、项目管理",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2021.03",
+        "to": "2023.12"
+      },
+      {
+        "school": "江南大学",
+        "dept": "电子半导体工学部",
+        "subjects": "数据库设计、统计应用、智能工厂数据分析、数据处理与分析技术、信息系统分析与设计、数据可视化、Python 机器学习",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2024.03",
+        "to": ""
+      },
+      {
+        "school": "培花女子大学",
+        "dept": "经营系",
+        "subjects": "数据分析 (Excel)",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2021.09",
+        "to": "2021.12"
+      },
+      {
+        "school": "天主教大学",
+        "dept": "通识课程",
+        "subjects": "偶然的科学：统计学",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2020.03",
+        "to": ""
+      },
+      {
+        "school": "首尔网络大学",
+        "dept": "金融保险系",
+        "subjects": "第四次工业时代的金融",
+        "role": "兼职教授",
+        "roleType": "prof",
+        "from": "2020.03",
+        "to": ""
+      },
+      {
+        "school": "国立韩巴大学",
+        "dept": "创业经营系",
+        "subjects": "电子商务概论、企业经营与信息技术",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2020.03",
+        "to": "2023.02"
+      },
+      {
+        "school": "国立金乌工科大学",
+        "dept": "咨询研究生院",
+        "subjects": "ICT 应用商业模式、区块链商业模式、人工智能案例研究等",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2022.03",
+        "to": "2023.02"
+      },
+      {
+        "school": "国立济州大学",
+        "dept": "保健研究生院",
+        "subjects": "卫生统计学、高级护理统计学",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2021.03",
+        "to": "2025.12"
+      },
+      {
+        "school": "乙支大学",
+        "dept": "殡葬指导系",
+        "subjects": "卫生统计学概论",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2021.03",
+        "to": "2023.02"
+      },
+      {
+        "school": "济州观光大学",
+        "dept": "观光学部",
+        "subjects": "第四次工业革命与大数据",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2021.03",
+        "to": "2021.06"
+      },
+      {
+        "school": "国立韩国体育大学",
+        "dept": "通识课程",
+        "subjects": "生活中的经济学、经济学的理解",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2020.03",
+        "to": "2026.02"
+      },
+      {
+        "school": "KC大学",
+        "dept": "经营-大数据系",
+        "subjects": "投资学、财务分析",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2020.03",
+        "to": "2021.02"
+      },
+      {
+        "school": "国立江原大学",
+        "dept": "经济学系",
+        "subjects": "金融计量经济学、计量经济学、经济学原理",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2020.03",
+        "to": "2021.02"
+      },
+      {
+        "school": "仁荷大学",
+        "dept": "未来融合技术研究生院",
+        "subjects": "Startup and Innovation",
+        "role": "兼职教授",
+        "roleType": "prof",
+        "from": "2019.08",
+        "to": "2020.06"
+      },
+      {
+        "school": "嘉泉大学",
+        "dept": "通识课程",
+        "subjects": "创业与知识产权等",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2019.03",
+        "to": "2025.02"
+      },
+      {
+        "school": "大田大学",
+        "dept": "通识课程",
+        "subjects": "虚拟货币技术、统计的应用",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2019.09",
+        "to": "2025.06"
+      },
+      {
+        "school": "白石大学",
+        "dept": "通识课程",
+        "subjects": "理解第四次工业革命",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2019.09",
+        "to": "2023.02"
+      },
+      {
+        "school": "国立韩巴大学",
+        "dept": "通识课程",
+        "subjects": "未来技术与社会",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2019.03",
+        "to": "2019.08"
+      },
+      {
+        "school": "韩国映像大学",
+        "dept": "通识课程",
+        "subjects": "内容与第四次工业革命",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2019.03",
+        "to": "2019.08"
+      },
+      {
+        "school": "又松大学",
+        "dept": "通识课程",
+        "subjects": "第四次工业革命与大数据",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2017.09",
+        "to": "2019.06"
+      },
+      {
+        "school": "国立公州大学",
+        "dept": "产业学院",
+        "subjects": "社会科学研究方法论",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2017.03",
+        "to": "2017.06"
+      },
+      {
+        "school": "东国大学",
+        "dept": "经济学系",
+        "subjects": "信息经济学",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2017.03",
+        "to": "2017.06"
+      },
+      {
+        "school": "东国大学",
+        "dept": "经济学系",
+        "subjects": "微观经济学原理、微观经济学",
+        "role": "讲师",
+        "roleType": "lect",
+        "from": "2014.09",
+        "to": "2015.06"
+      }
+    ]
+  },
+  "elearn": {
+    "h2": "在线课程内容",
+    "lead": "作为内容专家参与了韩国技术教育大学在线终身教育院(STEP)的免费在线课程。",
+    "items": [
+      {
+        "img": "c_fintech",
+        "meta": "2024 · 在线课程 13小时",
+        "title": "金融科技数据分析基础",
+        "desc": "从处理金融数据的基础到分析。支持电脑和手机。",
+        "alt": "金融科技数据分析基础课程横幅。左侧为课程名称，右侧为讲师照片和课程信息表",
+        "btn": "查看课程",
+        "url": "https://link.step.or.kr/brqEyc"
+      },
+      {
+        "img": "",
+        "meta": "2025 · 在线课程",
+        "title": "面向数据科学家的贝叶斯统计学",
+        "desc": "结合数据科学的实际用途，讲解用数据不断修正先验信念的贝叶斯方法。",
+        "alt": "面向数据科学家的贝叶斯统计学课程封面",
+        "btn": "在 STEP 查找",
+        "url": "https://www.step.or.kr/"
+      },
+      {
+        "img": "c_nlp",
+        "meta": "2025 · 在线课程 8小时",
+        "title": "[K-数字] 人工智能自然语言处理",
+        "desc": "按课时学习自然语言数据分析的流程与模型。满意度五颗星。",
+        "alt": "[K-数字] 人工智能自然语言处理课程页面。可见满意度五颗星、学习时间8小时和学习目录",
+        "btn": "在 STEP 查找",
+        "url": "https://www.step.or.kr/"
+      }
+    ]
+  },
+  "proj": {
+    "h2": "公共项目",
+    "lead": "这是在政府·公共机构项目中承担的角色。大部分担任总负责 PM。",
+    "th": [
+      "期间",
+      "项目（事业）",
+      "角色",
+      "主管机构（共同参与）"
+    ],
+    "items": [
+      {
+        "from": "2026.09",
+        "to": "2026.12",
+        "title": "毒品犯罪与矫正机构成瘾康复体系的社会成本比较分析",
+        "role": "共同研究者",
+        "roleType": "other",
+        "org": "法务部、世明大学产学合作团"
+      },
+      {
+        "from": "2026.08",
+        "to": "2026.11",
+        "title": "现场型 AX 专业讲师培养课程 — 制造现场 AX 课程（制造业 / 经营支援）",
+        "role": "教案设计 · 授课",
+        "roleType": "other",
+        "org": "韩国IT女性企业家协会、信息通信产业振兴院、蔚山信息产业振兴院"
+      },
+      {
+        "from": "2021.06",
+        "to": "2025.12",
+        "title": "面向在职人员的人工智能-金融科技教育模块制作及专职授课",
+        "role": "共同开发",
+        "roleType": "other",
+        "org": "信息通信产业振兴院（金融科技支援中心、韩国能率协会）"
+      },
+      {
+        "from": "2021.06",
+        "to": "2022.02",
+        "title": "非面对面初创企业支援项目（媒体领域）",
+        "role": "总负责 PM",
+        "roleType": "pm",
+        "org": "创业振兴院、韩国广播通信电波振兴院"
+      },
+      {
+        "from": "2021.06",
+        "to": "2021.12",
+        "title": "金融科技 API 开发支援项目",
+        "role": "总负责 PM",
+        "roleType": "pm",
+        "org": "韩国互联网振兴院"
+      },
+      {
+        "from": "2020.06",
+        "to": "2020.12",
+        "title": "智能媒体商用化支援项目",
+        "role": "总负责 PM",
+        "roleType": "pm",
+        "org": "韩国广播通信电波振兴院"
+      },
+      {
+        "from": "2019.06",
+        "to": "2019.12",
+        "title": "金融科技 API 开发支援项目",
+        "role": "总负责 PM",
+        "roleType": "pm",
+        "org": "韩国互联网振兴院"
+      },
+      {
+        "from": "2017.06",
+        "to": "2017.12",
+        "title": "新闻大数据初创企业支援项目",
+        "role": "总负责 PM",
+        "roleType": "pm",
+        "org": "韩国言论振兴财团"
+      },
+      {
+        "from": "2017.06",
+        "to": "2017.12",
+        "title": "金融科技 API 开发支援项目",
+        "role": "总负责 PM",
+        "roleType": "pm",
+        "org": "韩国互联网振兴院"
+      },
+      {
+        "from": "2017.06",
+        "to": "2018.02",
+        "title": "创业先导大学（专业技术部门）",
+        "role": "总负责 PM",
+        "roleType": "pm",
+        "org": "创业振兴院、东国大学产学合作团"
+      }
+    ]
+  },
+  "awards": {
+    "h2": "获奖",
+    "lead": "点击条形只显示当年的获奖。再点一次即回到全部。★表示部长·厅长级奖项。",
+    "chartH": "各年度获奖数",
+    "chartLabel": "各年度获奖数",
+    "barFmt": "{y}年{n}项",
+    "listAllFmt": "全部获奖{n}项",
+    "listYearFmt": "{y}年获奖{n}项",
+    "starLabel": "部长·厅长级",
+    "items": [
+      {
+        "date": "2023.12",
+        "title": "AI Hub 安心区数据应用竞赛优秀奖 — 面向老年劳动者的人工智能骨骼疾病风险诊断服务",
+        "org": "韩国智能信息社会振兴院",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2022.12",
+        "title": "公共数据应用民间创业支援领域功劳表彰",
+        "org": "行政安全部部长奖",
+        "minister": true,
+        "hackathon": false
+      },
+      {
+        "date": "2022.10",
+        "title": "智能媒体商用化领域优秀奖",
+        "org": "韩国广播通信电波振兴院院长奖",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2021.11",
+        "title": "第3届大数据·人工智能初创企业特别奖",
+        "org": "韩国燃气公社",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2020.12",
+        "title": "大阪-韩国初创企业路演大赛决赛第3名",
+        "org": "KOTRA 大阪",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2019.07",
+        "title": "智能媒体营X 全州 最优秀奖",
+        "org": "韩国电波振兴院院长奖",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2018.12",
+        "title": "NTIS（科学研究信息）信息应用竞赛优秀奖",
+        "org": "KISTI 院长奖",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2018.09",
+        "title": "2018 亚洲开放数据黑客松冠军",
+        "org": "行政安全部部长奖、HERE（主办方）奖",
+        "minister": true,
+        "hackathon": true
+      },
+      {
+        "date": "2018.08",
+        "title": "产业通商资源部数据竞赛商业领域优秀奖",
+        "org": "韩国水力原子力社长奖",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2018.07",
+        "title": "基于公共性的知识产权服务竞赛优秀奖",
+        "org": "首尔市立大学校长奖",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2018.06",
+        "title": "2018 知识产权服务竞赛优秀奖",
+        "org": "特许厅厅长奖",
+        "minister": true,
+        "hackathon": false
+      },
+      {
+        "date": "2016.11",
+        "title": "金融科技金融 API 黑客松鼓励奖",
+        "org": "韩国互联网振兴院院长奖",
+        "minister": false,
+        "hackathon": true
+      },
+      {
+        "date": "2016.11",
+        "title": "智能电网黑客松鼓励奖",
+        "org": "信息化振兴院院长奖",
+        "minister": false,
+        "hackathon": true
+      },
+      {
+        "date": "2016.11",
+        "title": "鲜活林产品价格信息应用创意竞赛",
+        "org": "韩国林业振兴院院长奖",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2016.10",
+        "title": "京畿道大数据初创企业商业领域获奖",
+        "org": "京畿道",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2015.11",
+        "title": "第1届每经 Mediathon 黑客松创新奖",
+        "org": "每经传媒集团",
+        "minister": false,
+        "hackathon": true
+      },
+      {
+        "date": "2013.06",
+        "title": "公司内模范职员表彰",
+        "org": "韩国电气安全公社社长奖",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2011.04",
+        "title": "市场经济研究院论文·创意竞赛",
+        "org": "韩国经济新闻社长奖",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2010.11",
+        "title": "东国大学一般研究生院东垣学术奖论文竞赛最优秀奖",
+        "org": "东国大学",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2009.11",
+        "title": "东国大学一般研究生院东垣学术奖论文竞赛鼓励奖",
+        "org": "东国大学",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2009.02",
+        "title": "影像内容论文竞赛优秀奖",
+        "org": "—",
+        "minister": false,
+        "hackathon": false
+      }
+    ]
+  },
+  "edu": {
+    "h2": "学历与社会活动",
+    "eduH": "学历",
+    "socialH": "社会活动",
+    "eduItems": [
+      {
+        "title": "东国大学一般研究生院经济学系 博士",
+        "note": "微观数理经济学",
+        "from": "2009.09",
+        "to": "2012.08"
+      },
+      {
+        "title": "东国大学一般研究生院经济学系 硕士",
+        "note": "",
+        "from": "2005.09",
+        "to": "2009.08"
+      },
+      {
+        "title": "东国大学经营学院税务会计系、经济学系 毕业",
+        "note": "",
+        "from": "2001.03",
+        "to": "2005.08"
+      },
+      {
+        "title": "良才创新 R&CD 人工智能领袖培养课程 结业",
+        "note": "",
+        "from": "2018.03",
+        "to": "2018.12"
+      }
+    ],
+    "socialItems": [
+      {
+        "title": "行政自治部·信息化振兴院 公共数据质量外部咨询委员",
+        "note": "",
+        "from": "2019.05",
+        "to": "2022.12"
+      },
+      {
+        "title": "首尔市第7期生活共感政策参与团",
+        "note": "",
+        "from": "2019.03",
+        "to": "2021.12"
+      },
+      {
+        "title": "消费者 IT 素养学校 结业 — （社）与消费者同行",
+        "note": "",
+        "from": "2017.04",
+        "to": "2017.07"
+      },
+      {
+        "title": "行政自治部 信息公开国民监督团",
+        "note": "",
+        "from": "2015.03",
+        "to": "2015.12"
+      },
+      {
+        "title": "企划财政部 政策监督团",
+        "note": "",
+        "from": "2011.03",
+        "to": "2011.12"
+      },
+      {
+        "title": "韩国产业人力公团 第2期客户小组监督员",
+        "note": "",
+        "from": "2011.03",
+        "to": "2011.12"
+      },
+      {
+        "title": "社会企业 共感万岁株式会社 经营企划 公益服务(Pro Bono)",
+        "note": "",
+        "from": "2010.03",
+        "to": "-"
+      }
+    ]
+  },
+  "footer": {
+    "line1": "<b>AI Model Review · 作者介绍</b> — Ahn Sangsun（M-Robo 株式会社代表）。原始简介：<a href=\"https://ahnboat.xyz/my_profile/\" target=\"_blank\" rel=\"noopener\">ahnboat.xyz/my_profile</a>",
+    "line2": "Money-Robo 是作者运营的服务的吉祥物角色，其他登场人物并不代表真实人物。专利号和日期以专利证书原件为准。图中文字保留原样。"
+  }
+}

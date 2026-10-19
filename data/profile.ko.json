@@ -1,0 +1,1187 @@
+{
+  "meta": {
+    "lang": "ko",
+    "updated": "2026-10-19",
+    "title": "저자 소개 — 안상선 (Reon Ahn)",
+    "description": "AI Model Review 시리즈의 저자 안상선. (주)M-Robo 대표, 로봇저널리즘 신문 Money-Robo 발행인. 특허, 저서, 강의, 수상 이력을 한 화면에."
+  },
+  "ui": {
+    "skip": "본문으로 바로 가기",
+    "langLabel": "언어",
+    "langBanner": "언어 선택",
+    "tocLabel": "이 페이지 목차",
+    "toc": {
+      "numbers": "한눈에",
+      "about": "소개",
+      "work": "경력",
+      "robo": "Money-Robo",
+      "ip": "특허",
+      "pubs": "저서·논문",
+      "teach": "강의",
+      "elearn": "이러닝",
+      "proj": "공공 프로젝트",
+      "awards": "수상",
+      "edu": "학력·활동"
+    },
+    "names": {
+      "fly": "초파리 연구원",
+      "robo": "Money-Robo",
+      "asst": "조수"
+    },
+    "talkLabel": "연구실 식구들의 대화",
+    "now": "현재",
+    "all": "전체",
+    "countFmt": "{label} {n}",
+    "rangeFmt": "{from} ~ {to}",
+    "zoomLabel": "이미지 크게 보기",
+    "close": "닫기",
+    "updatedFmt": "최종 업데이트 {d}"
+  },
+  "hero": {
+    "sceneAlt": "밤의 연구실. 박사가 신경망 화면을 가리키며 웃고, 조수는 졸린 얼굴로 키보드를 치고, 헬멧을 쓴 초파리 연구원이 책상 위에 서 있다",
+    "groupLabel": "Money-Robo의 인사",
+    "h1": "저자 소개 — 안상선",
+    "h1small": "Reon Ahn",
+    "line": "이 시리즈를 쓴 사람이자, 나를 만든 사장님이야. 경제학 박사, 로봇기자 신문 발행인, 특허 {patents}건. 말보다 숫자가 빠르니까 점수판부터 봐.",
+    "btnNumbers": "숫자로 보기",
+    "btnContact": "연락처",
+    "btnHome": "시리즈 처음으로"
+  },
+  "numbers": {
+    "h2": "한눈에 보는 숫자",
+    "lead": "아래 숫자는 이 페이지에 실린 목록에서 바로 세어 낸 값입니다. 칸을 누르면 해당 목록으로 갑니다.",
+    "kpi": {
+      "patents": [
+        "등록 특허",
+        "출원 10건 별도"
+      ],
+      "awards": [
+        "수상",
+        "장관·청장급 {minister}건"
+      ],
+      "schools": [
+        "출강한 학교",
+        "지금 {teachNow}곳 강의 중"
+      ],
+      "pubs": [
+        "논문·발표",
+        "저서 1권"
+      ],
+      "proj": [
+        "공공 프로젝트",
+        "총괄 PM {pm}건"
+      ],
+      "elearn": [
+        "이러닝 과정",
+        "STEP 내용전문가"
+      ]
+    }
+  },
+  "talk": {
+    "numbers": [
+      {
+        "who": "fly",
+        "mood": "point",
+        "text": "수상이 {awards}개? 그중 해커톤은 몇 개야?"
+      },
+      {
+        "who": "robo",
+        "mood": "chart",
+        "text": "{hack}개. 전부 밤새 코드 짜서 받은 거야. 남는 장사였지."
+      },
+      {
+        "who": "asst",
+        "mood": "firm",
+        "text": "제가 아래 목록에서 하나씩 다시 셌어요. 해커톤 {hack}건, 장관·청장급 상 {minister}건이에요."
+      }
+    ],
+    "robo": [
+      {
+        "who": "fly",
+        "mood": "clip",
+        "text": "기사를 그렇게 빨리 쓰면, 틀린 데는 누가 잡아?"
+      },
+      {
+        "who": "robo",
+        "mood": "happy",
+        "text": "숫자는 공시에서 그대로 가져와. 의심은 네 몫, 속도는 내 몫."
+      },
+      {
+        "who": "asst",
+        "mood": "spark",
+        "text": "Money-Robo는 2019년 8월에 창간했어요. 벌써 {roboYears}년이 넘었네요."
+      }
+    ],
+    "teach": [
+      {
+        "who": "fly",
+        "mood": "coffee",
+        "text": "학교가 {schools}곳이야? 날개가 있어도 이건 못 다니겠다."
+      },
+      {
+        "who": "robo",
+        "mood": "smile",
+        "text": "분산 투자야. 지금도 {teachNow}곳에 동시에 들어가 있어."
+      },
+      {
+        "who": "asst",
+        "mood": "sigh",
+        "text": "표에는 모두 {courses}건이에요. 같은 학교라도 학과가 다르면 따로 적었어요."
+      }
+    ],
+    "edu": [
+      {
+        "who": "fly",
+        "mood": "arms",
+        "text": "결국 경제학 박사가 AI를 가르치는 거네. 그래서 네가 돈 얘기만 하는구나."
+      },
+      {
+        "who": "robo",
+        "mood": "wow",
+        "text": "…들켰네. 그래도 시리즈 내내 판정은 데이터로 해."
+      },
+      {
+        "who": "asst",
+        "mood": "smile",
+        "text": "새 강의나 특허가 생기면 제가 이 기록을 바로 고쳐 둘게요. 마지막으로 고친 날은 맨 아래에 적어 둬요."
+      }
+    ]
+  },
+  "about": {
+    "h2": "소개",
+    "infoH": "Basic Info",
+    "rows": [
+      [
+        "이름",
+        "안상선 (Ahn Sang Sun · Reon Ahn)"
+      ],
+      [
+        "현직",
+        "(주)M-Robo 대표 · Money-Robo 발행인"
+      ],
+      [
+        "학위",
+        "경제학 박사 (동국대, 미시수리경제학)"
+      ],
+      [
+        "이메일",
+        "sangsun.ahn@gmail.com"
+      ]
+    ],
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/saladent/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/sangsun.ahn.5"
+      },
+      {
+        "label": "ahnboat.xyz",
+        "url": "https://ahnboat.xyz"
+      },
+      {
+        "label": "Money-Robo",
+        "url": "https://money-robo.com/home/money-robo-intro/"
+      },
+      {
+        "label": "논문·프로젝트 (Notion)",
+        "url": "https://www.notion.so/mrobo2016/Reon-Ahn-s-Project-04e6d05b2f7744bbba3df0671ca4a085"
+      }
+    ],
+    "bioH": "어떤 사람인가요",
+    "bio": [
+      "한국전기안전공사와 매일경제신문을 거쳐, 매일경제 사외벤처 <mark>(주)M-Robo</mark>를 창업해 대표로 일하고 있습니다. M-Robo는 언론사 사내 벤처로 출발한 미디어 벤처로, 국민일보에 로봇기자(스톡봇)를 서비스했고 한국인터넷진흥원·한국언론진흥재단·한국방송통신전파진흥원 등과 여러 프로젝트를 진행했습니다. 지금은 자체 AI 뉴스 신문 <mark>Money-Robo</mark>를 발행합니다.",
+      "대표로 일하며 아시아 오픈데이터 해커톤에서 우승했고, 데이터 창업 분야 공로로 행정안전부 장관상을 두 번 받았습니다. 인공지능·블록체인 분야 특허 5건의 발명자이며, 저서로 『AI 범죄와 자기 방어』가 있습니다.",
+      "한국기술교육대학교 온라인평생교육원에서 핀테크·통계학·인공지능 이러닝 콘텐츠를 개발했고, 국민대·호서대 등 여러 대학에서 데이터와 인공지능 과목을 가르칩니다."
+    ]
+  },
+  "work": {
+    "h2": "경력",
+    "lead": "위가 최근입니다. 청록 테두리는 지금도 하고 있는 일이에요.",
+    "items": [
+      {
+        "title": "미디어 스타트업 M-Robo(엠로보) 대표",
+        "from": "2016.06",
+        "to": ""
+      },
+      {
+        "title": "로봇저널리즘 인터넷 신문 \"Money-Robo\" 발행인",
+        "from": "2019.08",
+        "to": ""
+      },
+      {
+        "title": "한국능률협회(KMA) 핀테크지원센터 겸임교수 — 금융 데이터 분석·인공지능",
+        "from": "2020.07",
+        "to": "2025.11"
+      },
+      {
+        "title": "한국지능정보사회진흥원(NIA) 데이터 컨설턴트",
+        "from": "2022.03",
+        "to": "2022.12"
+      },
+      {
+        "title": "아시아경제신문 Fintech·Data-Science 분야 외래강사",
+        "from": "2019.08",
+        "to": "2022.07"
+      },
+      {
+        "title": "매경미디어그룹 사내벤처팀 팀장",
+        "from": "2015.11",
+        "to": "2016.05"
+      },
+      {
+        "title": "매일경제신문 편집국 경제경영연구소 연구원",
+        "from": "2014.04",
+        "to": "2015.10"
+      },
+      {
+        "title": "한국전기안전공사 재무관리부·노무복지부 사원",
+        "from": "2011.02",
+        "to": "2014.04"
+      },
+      {
+        "title": "한국농촌경제연구원 산림정책연구실 인턴 연구원",
+        "from": "2009.07",
+        "to": "2011.01"
+      },
+      {
+        "title": "매일경제신문 편집국 경제경영연구소 인턴 연구원",
+        "from": "2008.07",
+        "to": "2009.07"
+      },
+      {
+        "title": "세명대학교 산학협력단 연구보조원",
+        "from": "2008.01",
+        "to": "2008.07"
+      }
+    ]
+  },
+  "robo": {
+    "h2": "로봇저널리즘 프로젝트 — Money-Robo",
+    "lead": "데이터를 읽고 증권 기사를 스스로 쓰는 인터넷 신문입니다. 이 시리즈의 Money-Robo 캐릭터는 이 서비스의 마스코트예요.",
+    "imgAlt": "Money-Robo 홈페이지. 로봇 로고 아래 지수 시세 띠가 흐르고, 코스닥 종목의 주가 그래프와 함께 자동으로 작성된 공시 기사 제목이 나열되어 있다",
+    "caption": "Money-Robo 홈페이지 — 주가 그래프와 함께 자동 작성된 공시 기사",
+    "cardH": "무엇을 하나요",
+    "items": [
+      "<b>2016.06 ~</b> 미디어 스타트업 M-Robo 창업, 대표",
+      "<b>2019.08 ~</b> 로봇저널리즘 기반 인터넷 신문 \"Money-Robo\" 발행",
+      "국민일보에 로봇기자 <b>스톡봇</b> 서비스",
+      "증권 공시·지수·미국 주식시장 기사를 데이터에서 바로 생성",
+      "관련 특허: 주식 기사 생성 장치(10-2135712), 암호화폐 분석 뉴스 서비스(10-2618473)"
+    ],
+    "links": [
+      {
+        "label": "서비스 소개 보기",
+        "url": "https://money-robo.com/home/money-robo-intro/"
+      },
+      {
+        "label": "소개 영상 (YouTube)",
+        "url": "https://www.youtube.com/watch?v=CXmNDfDT1j0"
+      }
+    ]
+  },
+  "ip": {
+    "h2": "특허 — 등록 {patents}건",
+    "lead": "분야를 눌러 걸러 볼 수 있습니다. 특허증을 누르면 크게 보여요. 이 밖에 \"암호화폐 등 가상 자산의 변동성 측정 방법\"(10-2019-0010699) 등 출원 10건이 있습니다.",
+    "chipsLabel": "특허 분야 거르기",
+    "fields": {
+      "j": "로봇저널리즘",
+      "e": "에너지·기후",
+      "bc": "블록체인",
+      "r": "추천"
+    },
+    "noFmt": "제 {no} 호",
+    "datesFmt": "출원 {filed} · 등록 {reg}",
+    "ownerFmt": "특허권자 {owner}",
+    "altFmt": "특허증 제{no}호",
+    "capFmt": "특허 제{no}호 — {title}",
+    "tlH": "출원에서 등록까지",
+    "tlSrFmt": "{title}: 출원 {filed}, 등록 {reg}, 약 {years}년",
+    "tlNote": "막대 왼쪽 끝이 출원일, 오른쪽 끝이 등록일입니다. 출원에서 등록까지 평균 <b>{avg}년</b> 걸렸습니다.",
+    "items": [
+      {
+        "no": "10-2135712",
+        "title": "주식 기사 생성 장치 및 방법",
+        "field": "j",
+        "app": "10-2017-0183467",
+        "filed": "2017.12.29",
+        "reg": "2020.07.14",
+        "owner": "(주)엠로보",
+        "img": "p1"
+      },
+      {
+        "no": "10-2486672",
+        "title": "태양광 데이터를 이용한 폭염피해 예측 시스템 및 방법",
+        "field": "e",
+        "app": "10-2018-0150546",
+        "filed": "2018.11.29",
+        "reg": "2023.01.05",
+        "owner": "(주)엠로보",
+        "img": "p2"
+      },
+      {
+        "no": "10-2555652",
+        "title": "블록체인 데이터의 모니터링을 통한 이상징후 탐지시스템 및 방법",
+        "field": "bc",
+        "app": "10-2018-0150559",
+        "filed": "2018.11.29",
+        "reg": "2023.07.11",
+        "owner": "안상선",
+        "img": "p3"
+      },
+      {
+        "no": "10-2618473",
+        "title": "로봇 저널리즘을 이용한 암호 화폐의 분석 뉴스 콘텐츠 서비스 시스템과 그 서비스 방법",
+        "field": "j",
+        "app": "10-2018-0050193",
+        "filed": "2018.04.30",
+        "reg": "2023.12.21",
+        "owner": "안상선",
+        "img": "p4"
+      },
+      {
+        "no": "10-2666665",
+        "title": "이미지 추천 방법, 장치, 컴퓨터 판독 가능한 기록매체 및 컴퓨터 프로그램",
+        "field": "r",
+        "app": "10-2021-0060289",
+        "filed": "2021.05.10",
+        "reg": "2024.05.13",
+        "owner": "(주)엠로보",
+        "img": "p5"
+      }
+    ]
+  },
+  "pubs": {
+    "h2": "저서와 논문",
+    "book": {
+      "title": "『AI 범죄와 자기 방어』",
+      "alt": "책 『AI 범죄와 자기 방어』 표지. 파란 사선 무늬 테두리 안에 제목과 소개 글, 저자 사진이 있다",
+      "caption": "『AI 범죄와 자기 방어』 · 커뮤니케이션북스, 2025 · 인공지능총서",
+      "desc": "AI가 범죄에 쓰이는 실제 사례를 모으고, 범죄자가 왜 AI를 고르는지를 범죄경제학의 눈으로 묻습니다. 범죄자도 비용과 이익을 따진다는 관점에서, AI가 범죄의 비용 구조와 수익 모델을 어떻게 바꾸었는지 풀어낸 책입니다."
+    },
+    "chipsLabel": "논문 종류 거르기",
+    "kinds": {
+      "j": "학술지",
+      "c": "학술대회·발표",
+      "o": "보고서"
+    },
+    "soloLabel": "단독",
+    "items": [
+      {
+        "date": "2025.07",
+        "title": "국민노후보장패널데이터를 활용한 가구지출 예측 모델 연구: 인공지능 모델 기반 접근",
+        "src": "미래사회 제16권 2호 · 학술등재지",
+        "kind": "j",
+        "solo": true,
+        "url": "https://ifso.iscu.ac.kr/02_res/sub2_1_view.asp?idx=508"
+      },
+      {
+        "date": "2025.05",
+        "title": "국민노후보장패널데이터를 활용한 가구지출 예측 모델 연구: 인공지능 접근",
+        "src": "국민노후보장패널 학술대회 발표 · 국민연금공단 국민연금연구원",
+        "kind": "c",
+        "solo": false,
+        "url": "https://drive.google.com/file/d/1LbYLSxtmmWZGBAwKHrnaLMIA-RX4dCD0/view?usp=sharing"
+      },
+      {
+        "date": "2025.03",
+        "title": "SNS 텍스트 기반 마약 의심 거래 탐지 알고리즘에 대한 연구: 패턴 및 맥락 분석을 중심으로",
+        "src": "미래사회 제16권 1호 · 학술등재지",
+        "kind": "j",
+        "solo": true,
+        "url": "https://ifso.iscu.ac.kr/02_res/sub2_1_view.asp?idx=490"
+      },
+      {
+        "date": "2024.11",
+        "title": "금융분야의 이상탐지 모델 보안을 위한 통계 기반의 적대적 데이터 대응 방안 — 실증적 분석과 시뮬레이션 결과",
+        "src": "미래사회 제15권 3호 · 학술등재지",
+        "kind": "j",
+        "solo": true,
+        "url": "https://ifso.iscu.ac.kr/02_res/sub2_1_view.asp?idx=464"
+      },
+      {
+        "date": "2024.06",
+        "title": "인공지능을 활용한 가상 캐릭터 특성 기반 SNS 포스팅 탐지 솔루션",
+        "src": "서울미디어대학원대학교 2024 Summer Newmedia Party 포스터 발표",
+        "kind": "c",
+        "solo": false,
+        "url": ""
+      },
+      {
+        "date": "2024.05",
+        "title": "산업재해 패널 데이터를 활용한 머신러닝 모델",
+        "src": "제10회 산재보험패널 학술대회 포스터 발표 · 근로복지연구원",
+        "kind": "c",
+        "solo": false,
+        "url": ""
+      },
+      {
+        "date": "2024.02",
+        "title": "가상 자산 시계열 데이터의 분석과 예측 — 시계열 모델 및 인공지능 모델의 비교, 개선점 제시",
+        "src": "미래사회 제15권 1호 · 학술등재지",
+        "kind": "j",
+        "solo": true,
+        "url": "https://ifso.iscu.ac.kr/02_res/sub2_1_view.asp?idx=379"
+      },
+      {
+        "date": "2021.12",
+        "title": "암호화폐 자산의 정보 효율성에 대한 연구",
+        "src": "미래사회 제12권 2호",
+        "kind": "j",
+        "solo": true,
+        "url": "https://ifso.iscu.ac.kr/02_res/sub2_1_view.asp?idx=204"
+      },
+      {
+        "date": "2018",
+        "title": "ERC-20 경제적 성과 분석",
+        "src": "이드콘 2018 발표",
+        "kind": "c",
+        "solo": false,
+        "url": "https://decenter.kr/NewsView/1VJB0BLUD4"
+      },
+      {
+        "date": "—",
+        "title": "미디어 기반 블록체인의 경제성 성과 및 효율성 분석",
+        "src": "한국언론학회 50주년 학술대회",
+        "kind": "c",
+        "solo": false,
+        "url": ""
+      },
+      {
+        "date": "2017",
+        "title": "중고령자 자영업 시장에 대한 연구 — 신규창업과 기창업 비교를 중심으로",
+        "src": "2017 고용패널조사 학술대회 · 한국고용정보원, 고용노동부",
+        "kind": "c",
+        "solo": false,
+        "url": ""
+      },
+      {
+        "date": "—",
+        "title": "인공지능과 로봇저널리즘",
+        "src": "KISTI MARKET REPORT 인공지능 특별호",
+        "kind": "o",
+        "solo": false,
+        "url": ""
+      }
+    ]
+  },
+  "teach": {
+    "h2": "강의 이력",
+    "lead": "지금까지 강의한 학교와 과목입니다. 막대는 강의한 기간이고, 노란 세로선이 오늘이에요.",
+    "chipsLabel": "강의 이력 거르기",
+    "chipAll": "전체 {n}건",
+    "chipNow": "지금 강의 중 {n}건",
+    "chipProf": "겸임·객원교수 {n}건",
+    "legendNow": "지금 강의 중",
+    "legendPast": "끝난 강의",
+    "legendToday": "오늘",
+    "barFmt": "{school} {subjects}, {from}부터 {to}까지",
+    "tableH": "전체 표",
+    "th": [
+      "학교 · 소속",
+      "담당 과목",
+      "포지션",
+      "기간"
+    ],
+    "items": [
+      {
+        "school": "가천대학교",
+        "dept": "경영대학 회계세무학과",
+        "subjects": "파이썬과 회계 데이터 분석",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2026.09",
+        "to": ""
+      },
+      {
+        "school": "국립공주대학교",
+        "dept": "그린스마트건축대학원",
+        "subjects": "AI를 이용한 데이터 분석, AI를 이용한 스마트공정최적화",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2026.03",
+        "to": ""
+      },
+      {
+        "school": "경기대학교",
+        "dept": "중소기업AI융합학과",
+        "subjects": "AI프로그래밍, 스마트 제조",
+        "role": "겸임교수",
+        "roleType": "prof",
+        "from": "2026.03",
+        "to": ""
+      },
+      {
+        "school": "한국기술교육대학교",
+        "dept": "고용서비스정책학과",
+        "subjects": "노동경제학",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2026.03",
+        "to": ""
+      },
+      {
+        "school": "과학기술연합대학원대학교(UST)",
+        "dept": "",
+        "subjects": "인공지능(공통과정)",
+        "role": "겸임교수",
+        "roleType": "prof",
+        "from": "2025.03",
+        "to": "2025.12"
+      },
+      {
+        "school": "한국열린사이버대학교",
+        "dept": "인공지능융합학과",
+        "subjects": "비즈니스를 위한 데이터 과학",
+        "role": "객원교수",
+        "roleType": "prof",
+        "from": "2025.09",
+        "to": ""
+      },
+      {
+        "school": "을지대학교",
+        "dept": "임상병리학과",
+        "subjects": "보건통계학과 R",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2024.03",
+        "to": ""
+      },
+      {
+        "school": "국립한밭대학교",
+        "dept": "경제학과",
+        "subjects": "계량경제학, 주식시장과 주가",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2024.09",
+        "to": "2026.06"
+      },
+      {
+        "school": "한남대학교",
+        "dept": "탈메이지교양융합대학",
+        "subjects": "생성형AI 활용 전략",
+        "role": "겸임교수·강사",
+        "roleType": "prof",
+        "from": "2024.09",
+        "to": ""
+      },
+      {
+        "school": "서울미디어대학원대학교",
+        "dept": "인공지능응용소프트웨어학과",
+        "subjects": "재무회계와 투자관리, AI Business case study(영어강의), 데이터기반 회계 분석과 투자전략, Financial Accounting and Investment Management(영어강의)",
+        "role": "겸임교수",
+        "roleType": "prof",
+        "from": "2024.03",
+        "to": ""
+      },
+      {
+        "school": "국민대학교",
+        "dept": "소프트웨어융합대학원",
+        "subjects": "기계학습프로젝트, AI응용시스템",
+        "role": "겸임교수",
+        "roleType": "prof",
+        "from": "2023.09",
+        "to": ""
+      },
+      {
+        "school": "호서대학교",
+        "dept": "경영학부",
+        "subjects": "경영통계, 자료분석",
+        "role": "겸임교수",
+        "roleType": "prof",
+        "from": "2023.03",
+        "to": ""
+      },
+      {
+        "school": "서울종합과학대학원(ASSIST)",
+        "dept": "금융MBA 과정",
+        "subjects": "금융 빅데이터 분석 모듈",
+        "role": "객원교수",
+        "roleType": "prof",
+        "from": "2022.09",
+        "to": "2023.06"
+      },
+      {
+        "school": "숭실대학교",
+        "dept": "금융학부",
+        "subjects": "금융머신러닝, 금융빅데이터 분석 외",
+        "role": "겸임교수",
+        "roleType": "prof",
+        "from": "2021.03",
+        "to": "2023.02"
+      },
+      {
+        "school": "강남대학교",
+        "dept": "공과대학 ICT학부",
+        "subjects": "공공데이터 이해와 분석, 데이터통계분석, 데이터베이스 기초, 시니어데이터 분석, 프로젝트매니지먼트",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2021.03",
+        "to": "2023.12"
+      },
+      {
+        "school": "강남대학교",
+        "dept": "전자반도체공학부",
+        "subjects": "데이터베이스설계, 통계응용, 스마트팩토리데이터분석, 데이터처리와 분석기술, 정보시스템분석및설계, 데이터 시각화, 파이썬 머신러닝",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2024.03",
+        "to": ""
+      },
+      {
+        "school": "배화여자대학교",
+        "dept": "경영과",
+        "subjects": "데이터분석 (Excel)",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2021.09",
+        "to": "2021.12"
+      },
+      {
+        "school": "가톨릭대학교",
+        "dept": "교양과정",
+        "subjects": "우연의 과학: 통계학",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2020.03",
+        "to": ""
+      },
+      {
+        "school": "서울사이버대학교",
+        "dept": "금융보험학과",
+        "subjects": "4차산업시대의 금융",
+        "role": "겸임교수",
+        "roleType": "prof",
+        "from": "2020.03",
+        "to": ""
+      },
+      {
+        "school": "국립한밭대학교",
+        "dept": "창업경영학과",
+        "subjects": "E-비즈니스의 이해, 기업경영과 정보기술",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2020.03",
+        "to": "2023.02"
+      },
+      {
+        "school": "국립금오공과대학교",
+        "dept": "컨설팅대학원",
+        "subjects": "ICT응용비즈니스모델, 블록체인 비즈니스모델, 인공지능 사례 연구 외",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2022.03",
+        "to": "2023.02"
+      },
+      {
+        "school": "국립제주대학교",
+        "dept": "보건대학원",
+        "subjects": "보건통계학, 상급간호통계학",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2021.03",
+        "to": "2025.12"
+      },
+      {
+        "school": "을지대학교",
+        "dept": "장례지도학과",
+        "subjects": "보건통계학 개론",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2021.03",
+        "to": "2023.02"
+      },
+      {
+        "school": "제주관광대학교",
+        "dept": "관광학부",
+        "subjects": "4차산업혁명과 빅데이터",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2021.03",
+        "to": "2021.06"
+      },
+      {
+        "school": "국립한국체육대학교",
+        "dept": "교양과정",
+        "subjects": "생활 속의 경제학, 경제학의 이해",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2020.03",
+        "to": "2026.02"
+      },
+      {
+        "school": "KC대학교",
+        "dept": "경영-빅데이터학과",
+        "subjects": "투자론, 재무분석",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2020.03",
+        "to": "2021.02"
+      },
+      {
+        "school": "국립강원대학교",
+        "dept": "경제학과",
+        "subjects": "금융계량경제학, 계량경제학, 경제학원론",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2020.03",
+        "to": "2021.02"
+      },
+      {
+        "school": "인하대학교",
+        "dept": "미래융합기술대학원",
+        "subjects": "Startup and Innovation",
+        "role": "겸임교수",
+        "roleType": "prof",
+        "from": "2019.08",
+        "to": "2020.06"
+      },
+      {
+        "school": "가천대학교",
+        "dept": "교양과정",
+        "subjects": "창업과 지식재산 외",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2019.03",
+        "to": "2025.02"
+      },
+      {
+        "school": "대전대학교",
+        "dept": "교양과정",
+        "subjects": "가상화폐기술, 통계의 활용",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2019.09",
+        "to": "2025.06"
+      },
+      {
+        "school": "백석대학교",
+        "dept": "교양과정",
+        "subjects": "4차산업혁명의 이해",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2019.09",
+        "to": "2023.02"
+      },
+      {
+        "school": "국립한밭대학교",
+        "dept": "교양과정",
+        "subjects": "미래기술과 사회",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2019.03",
+        "to": "2019.08"
+      },
+      {
+        "school": "한국영상대학교",
+        "dept": "교양과정",
+        "subjects": "콘텐츠와 4차 산업혁명",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2019.03",
+        "to": "2019.08"
+      },
+      {
+        "school": "우송대학교",
+        "dept": "교양과정",
+        "subjects": "4차산업혁명과 빅데이터",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2017.09",
+        "to": "2019.06"
+      },
+      {
+        "school": "국립공주대학교",
+        "dept": "산업대학",
+        "subjects": "사회과학연구방법론",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2017.03",
+        "to": "2017.06"
+      },
+      {
+        "school": "동국대학교",
+        "dept": "경제학과",
+        "subjects": "정보경제학",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2017.03",
+        "to": "2017.06"
+      },
+      {
+        "school": "동국대학교",
+        "dept": "경제학과",
+        "subjects": "미시경제원론, 미시경제학",
+        "role": "강사",
+        "roleType": "lect",
+        "from": "2014.09",
+        "to": "2015.06"
+      }
+    ]
+  },
+  "elearn": {
+    "h2": "이러닝 콘텐츠",
+    "lead": "한국기술교육대학교 온라인평생교육원(STEP)의 무료 이러닝 과정에 내용전문가로 참여했습니다.",
+    "items": [
+      {
+        "img": "c_fintech",
+        "meta": "2024 · 이러닝 13시간",
+        "title": "핀테크 데이터분석 기초",
+        "desc": "금융 데이터를 다루는 기초부터 분석까지. PC와 모바일 모두 지원합니다.",
+        "alt": "핀테크 데이터분석 기초 과정 배너. 왼쪽에 과정 제목, 오른쪽에 강사 사진과 교육 정보 표가 있다",
+        "btn": "과정 보기",
+        "url": "https://link.step.or.kr/brqEyc"
+      },
+      {
+        "img": "",
+        "meta": "2025 · 이러닝",
+        "title": "데이터 사이언티스트를 위한 베이지안 통계학",
+        "desc": "사전 믿음을 데이터로 고쳐 나가는 베이지안 방법을 데이터 과학의 쓰임새와 함께 다룹니다.",
+        "alt": "데이터 사이언티스트를 위한 베이지안 통계학 과정 표지",
+        "btn": "STEP에서 찾기",
+        "url": "https://www.step.or.kr/"
+      },
+      {
+        "img": "c_nlp",
+        "meta": "2025 · 이러닝 8시간",
+        "title": "[K-디지털] 인공지능 자연어 처리",
+        "desc": "자연어 데이터 분석의 흐름과 모델을 차시별로 배웁니다. 만족도 별 다섯 개.",
+        "alt": "[K-디지털] 인공지능 자연어 처리 과정 페이지. 만족도 별 다섯 개, 학습시간 8시간, 학습목차가 보인다",
+        "btn": "STEP에서 찾기",
+        "url": "https://www.step.or.kr/"
+      }
+    ]
+  },
+  "proj": {
+    "h2": "공공 프로젝트",
+    "lead": "정부·공공기관 사업에서 맡은 역할입니다. 대부분 총괄 PM이었습니다.",
+    "th": [
+      "기간",
+      "프로젝트 (사업)",
+      "역할",
+      "주관 기관 (공동 참여)"
+    ],
+    "items": [
+      {
+        "from": "2026.09",
+        "to": "2026.12",
+        "title": "마약류범죄와 교정기관 중독재활 체계의 사회적 비용 비교분석",
+        "role": "공동 연구자",
+        "roleType": "other",
+        "org": "법무부, 세명대학교 산학협력단"
+      },
+      {
+        "from": "2026.08",
+        "to": "2026.11",
+        "title": "현장형 AX 전문강사 양성과정 — 제조현장 AX 과정 (제조업 / 경영지원)",
+        "role": "교안 설계 · 강의",
+        "roleType": "other",
+        "org": "한국IT여성기업인협회, 정보통신산업진흥원, 울산정보산업진흥원"
+      },
+      {
+        "from": "2021.06",
+        "to": "2025.12",
+        "title": "재직자 대상 인공지능-핀테크 교육 모듈 제작 및 전담 강의",
+        "role": "공동 개발",
+        "roleType": "other",
+        "org": "정보통신산업진흥원 (핀테크지원센터, 한국능률협회)"
+      },
+      {
+        "from": "2021.06",
+        "to": "2022.02",
+        "title": "비대면 스타트업 지원사업 (미디어 분야)",
+        "role": "총괄 PM",
+        "roleType": "pm",
+        "org": "창업진흥원, 한국방송통신전파진흥원"
+      },
+      {
+        "from": "2021.06",
+        "to": "2021.12",
+        "title": "핀테크 API 개발지원사업",
+        "role": "총괄 PM",
+        "roleType": "pm",
+        "org": "한국인터넷진흥원"
+      },
+      {
+        "from": "2020.06",
+        "to": "2020.12",
+        "title": "스마트미디어 상용화 지원사업",
+        "role": "총괄 PM",
+        "roleType": "pm",
+        "org": "한국방송통신전파진흥원"
+      },
+      {
+        "from": "2019.06",
+        "to": "2019.12",
+        "title": "핀테크 API 개발지원사업",
+        "role": "총괄 PM",
+        "roleType": "pm",
+        "org": "한국인터넷진흥원"
+      },
+      {
+        "from": "2017.06",
+        "to": "2017.12",
+        "title": "뉴스 빅데이터 스타트업 지원사업",
+        "role": "총괄 PM",
+        "roleType": "pm",
+        "org": "한국언론진흥재단"
+      },
+      {
+        "from": "2017.06",
+        "to": "2017.12",
+        "title": "핀테크 API 개발지원사업",
+        "role": "총괄 PM",
+        "roleType": "pm",
+        "org": "한국인터넷진흥원"
+      },
+      {
+        "from": "2017.06",
+        "to": "2018.02",
+        "title": "창업선도대학 (전문기술 부문)",
+        "role": "총괄 PM",
+        "roleType": "pm",
+        "org": "창업진흥원, 동국대학교 산학협력단"
+      }
+    ]
+  },
+  "awards": {
+    "h2": "수상",
+    "lead": "막대를 누르면 그해 수상만 보입니다. 한 번 더 누르면 전체로 돌아가요. ★는 장관·청장급 상입니다.",
+    "chartH": "연도별 수상 수",
+    "chartLabel": "연도별 수상 수",
+    "barFmt": "{y}년 {n}건",
+    "listAllFmt": "전체 수상 {n}건",
+    "listYearFmt": "{y}년 수상 {n}건",
+    "starLabel": "장관·청장급",
+    "items": [
+      {
+        "date": "2023.12",
+        "title": "AI허브 안심존 데이터 활용 경진대회 우수상 — 시니어 근로자를 위한 인공지능 골격질환 위험 진단 서비스",
+        "org": "한국지능정보사회진흥원",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2022.12",
+        "title": "공공데이터 활용 민간 창업지원 부문 공로 포상",
+        "org": "행정안전부 장관상",
+        "minister": true,
+        "hackathon": false
+      },
+      {
+        "date": "2022.10",
+        "title": "스마트미디어 상용화 부문 우수상",
+        "org": "한국방송통신전파진흥원장상",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2021.11",
+        "title": "제3회 빅데이터·인공지능 스타트업 특별상",
+        "org": "한국가스공사",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2020.12",
+        "title": "오사카-대한민국 스타트업 피칭 대회 본선 3등",
+        "org": "KOTRA 오사카",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2019.07",
+        "title": "스마트미디어 캠프X 전주 최우수상",
+        "org": "한국전파진흥원장상",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2018.12",
+        "title": "NTIS(과학연구정보) 정보 활용 공모전 우수상",
+        "org": "KISTI 원장상",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2018.09",
+        "title": "2018 아시아 오픈데이터 해커톤 우승",
+        "org": "행정안전부 장관상, HERE(주관사)상",
+        "minister": true,
+        "hackathon": true
+      },
+      {
+        "date": "2018.08",
+        "title": "산업부 데이터 공모전 비즈니스 부문 우수상",
+        "org": "한국수력원자력 사장상",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2018.07",
+        "title": "공공성 기반 지식재산 서비스 공모전 우수상",
+        "org": "서울시립대 총장상",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2018.06",
+        "title": "2018 지식재산 서비스 공모전 우수상",
+        "org": "특허청장상",
+        "minister": true,
+        "hackathon": false
+      },
+      {
+        "date": "2016.11",
+        "title": "핀테크 금융API 해커톤 장려상",
+        "org": "한국인터넷진흥원 원장상",
+        "minister": false,
+        "hackathon": true
+      },
+      {
+        "date": "2016.11",
+        "title": "스마트그리드 해커톤 장려상",
+        "org": "정보화진흥원 원장상",
+        "minister": false,
+        "hackathon": true
+      },
+      {
+        "date": "2016.11",
+        "title": "생생임산물 가격정보 활용 아이디어 공모전",
+        "org": "한국임업진흥원 원장상",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2016.10",
+        "title": "경기도 빅데이터 스타트업 비즈니스 부문 수상",
+        "org": "경기도",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2015.11",
+        "title": "제1회 매경미디어톤 해커톤 혁신상",
+        "org": "매경미디어그룹",
+        "minister": false,
+        "hackathon": true
+      },
+      {
+        "date": "2013.06",
+        "title": "사내 모범직원 표창",
+        "org": "한국전기안전공사 사장상",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2011.04",
+        "title": "시장경제연구원 논문·아이디어 공모전",
+        "org": "한국경제신문 사장상",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2010.11",
+        "title": "동국대학교 일반대학원 동원학술상 논문공모전 최우수상",
+        "org": "동국대학교",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2009.11",
+        "title": "동국대학교 일반대학원 동원학술상 논문공모전 장려상",
+        "org": "동국대학교",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2009.02",
+        "title": "영상콘텐츠 논문공모전 우수상",
+        "org": "—",
+        "minister": false,
+        "hackathon": false
+      }
+    ]
+  },
+  "edu": {
+    "h2": "학력과 사회 활동",
+    "eduH": "학력",
+    "socialH": "사회 활동",
+    "eduItems": [
+      {
+        "title": "동국대학교 일반대학원 경제학과 박사",
+        "note": "미시수리경제학",
+        "from": "2009.09",
+        "to": "2012.08"
+      },
+      {
+        "title": "동국대학교 일반대학원 경제학과 석사",
+        "note": "",
+        "from": "2005.09",
+        "to": "2009.08"
+      },
+      {
+        "title": "동국대학교 경영대학 세무회계학과, 경제학과 졸업",
+        "note": "",
+        "from": "2001.03",
+        "to": "2005.08"
+      },
+      {
+        "title": "양재혁신 R&CD 인공지능 리더 양성과정 수료",
+        "note": "",
+        "from": "2018.03",
+        "to": "2018.12"
+      }
+    ],
+    "socialItems": [
+      {
+        "title": "행정자치부·정보화진흥원 공공데이터 품질 외부자문위원",
+        "note": "",
+        "from": "2019.05",
+        "to": "2022.12"
+      },
+      {
+        "title": "서울시 제7기 생활공감 정책참여단",
+        "note": "",
+        "from": "2019.03",
+        "to": "2021.12"
+      },
+      {
+        "title": "소비자 IT리터러시 스쿨 수료 — (사)소비자와 함께",
+        "note": "",
+        "from": "2017.04",
+        "to": "2017.07"
+      },
+      {
+        "title": "행정자치부 정보공개 국민 모니터단",
+        "note": "",
+        "from": "2015.03",
+        "to": "2015.12"
+      },
+      {
+        "title": "기획재정부 정책모니터단",
+        "note": "",
+        "from": "2011.03",
+        "to": "2011.12"
+      },
+      {
+        "title": "한국산업인력공단 제2기 고객패널 모니터 요원",
+        "note": "",
+        "from": "2011.03",
+        "to": "2011.12"
+      },
+      {
+        "title": "사회적 기업 (주)공감만세 경영기획 프로보노",
+        "note": "",
+        "from": "2010.03",
+        "to": "-"
+      }
+    ]
+  },
+  "footer": {
+    "line1": "<b>AI Model Review · 저자 소개</b> — 안상선 ((주)M-Robo 대표). 원본 프로필: <a href=\"https://ahnboat.xyz/my_profile/\" target=\"_blank\" rel=\"noopener\">ahnboat.xyz/my_profile</a>",
+    "line2": "Money-Robo는 저자가 운영하는 서비스의 마스코트 캐릭터이며, 다른 등장인물은 실존 인물을 나타내지 않습니다. 특허 번호와 날짜는 특허증 원본을 기준으로 적었습니다. 그림 속 글자는 원본 그대로입니다."
+  }
+}

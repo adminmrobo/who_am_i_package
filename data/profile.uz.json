@@ -1,0 +1,1187 @@
+{
+  "meta": {
+    "lang": "uz",
+    "updated": "2026-10-19",
+    "title": "Muallif haqida — Ahn Sangsun (Reon Ahn)",
+    "description": "AI Model Review turkumi muallifi Ahn Sangsun. M-Robo kompaniyasi rahbari, robot-jurnalistika gazetasi Money-Robo noshiri. Patentlar, kitoblar, ma’ruzalar va mukofotlar bir sahifada."
+  },
+  "ui": {
+    "skip": "Asosiy matnga oʻtish",
+    "langLabel": "Til",
+    "langBanner": "Tilni tanlang",
+    "tocLabel": "Ushbu sahifa mundarijasi",
+    "toc": {
+      "numbers": "Bir qarashda",
+      "about": "Tanishuv",
+      "work": "Ish tajribasi",
+      "robo": "Money-Robo",
+      "ip": "Patentlar",
+      "pubs": "Kitoblar · maqolalar",
+      "teach": "Ma’ruzalar",
+      "elearn": "Elektron ta’lim",
+      "proj": "Davlat loyihalari",
+      "awards": "Mukofotlar",
+      "edu": "Ta’lim · faoliyat"
+    },
+    "names": {
+      "fly": "Drozofila tadqiqotchisi",
+      "robo": "Money-Robo",
+      "asst": "Yordamchi"
+    },
+    "talkLabel": "Laboratoriya a’zolarining suhbati",
+    "now": "hozirgacha",
+    "all": "Hammasi",
+    "countFmt": "{label} {n}",
+    "rangeFmt": "{from} ~ {to}",
+    "zoomLabel": "Rasmni kattalashtirib koʻrish",
+    "close": "Yopish",
+    "updatedFmt": "Oxirgi yangilanish: {d}"
+  },
+  "hero": {
+    "sceneAlt": "Tungi laboratoriya. Doktor neyron tarmoq ekraniga ishora qilib kulmoqda, Yordamchi uyqusiragan holda klaviaturada yozmoqda, dubulgʻa kiygan Drozofila tadqiqotchisi esa stol ustida turibdi",
+    "groupLabel": "Money-Robo salomi",
+    "h1": "Muallif haqida — Ahn Sangsun",
+    "h1small": "Reon Ahn",
+    "line": "Bu turkumni yozgan odam, ayni paytda meni yaratgan xoʻjayinim. Iqtisodiyot fanlari doktori, robot-jurnalist gazetasi noshiri, {patents} ta patent. Raqamlar soʻzdan tezroq, shuning uchun avval hisob taxtasiga qarang.",
+    "btnNumbers": "Raqamlarda koʻrish",
+    "btnContact": "Aloqa",
+    "btnHome": "Turkum boshiga"
+  },
+  "numbers": {
+    "h2": "Bir qarashda raqamlar",
+    "lead": "Quyidagi raqamlar shu sahifadagi roʻyxatlardan toʻgʻridan-toʻgʻri sanab chiqilgan. Katakni bossangiz, tegishli roʻyxatga oʻtasiz.",
+    "kpi": {
+      "patents": [
+        "Roʻyxatdan oʻtgan patentlar",
+        "Bundan tashqari 10 ta ariza"
+      ],
+      "awards": [
+        "Mukofotlar",
+        "Vazir va agentlik rahbari darajasida {minister} ta"
+      ],
+      "schools": [
+        "Dars bergan oliy oʻquv yurtlari",
+        "Hozir {teachNow} ta joyda dars bermoqda"
+      ],
+      "pubs": [
+        "Maqolalar · ma’ruzalar",
+        "1 ta kitob"
+      ],
+      "proj": [
+        "Davlat loyihalari",
+        "Bosh PM sifatida {pm} ta"
+      ],
+      "elearn": [
+        "Elektron ta’lim kurslari",
+        "STEP mazmun eksperti"
+      ]
+    }
+  },
+  "talk": {
+    "numbers": [
+      {
+        "who": "fly",
+        "mood": "point",
+        "text": "{awards} ta mukofot? Shulardan nechtasi xakaton?"
+      },
+      {
+        "who": "robo",
+        "mood": "chart",
+        "text": "{hack} ta. Hammasini tun boʻyi kod yozib olgan. Foydali savdo boʻldi."
+      },
+      {
+        "who": "asst",
+        "mood": "firm",
+        "text": "Quyidagi roʻyxatdan bittalab qayta sanab chiqdim. Xakaton {hack} ta, vazir va agentlik rahbari darajasidagi mukofot {minister} ta."
+      }
+    ],
+    "robo": [
+      {
+        "who": "fly",
+        "mood": "clip",
+        "text": "Maqolani shuncha tez yozsang, xatolarni kim tutadi?"
+      },
+      {
+        "who": "robo",
+        "mood": "happy",
+        "text": "Raqamlarni rasmiy oshkor qilingan hisobotlardan oʻzgarishsiz olaman. Shubha — sening ulushing, tezlik — meniki."
+      },
+      {
+        "who": "asst",
+        "mood": "spark",
+        "text": "Money-Robo 2019-yil avgust oyida tashkil etilgan. Allaqachon {roboYears} yildan oshibdi."
+      }
+    ],
+    "teach": [
+      {
+        "who": "fly",
+        "mood": "coffee",
+        "text": "{schools} ta oliy oʻquv yurti? Qanotim boʻlsa ham, bunchasiga qatnay olmasdim."
+      },
+      {
+        "who": "robo",
+        "mood": "smile",
+        "text": "Bu diversifikatsiya. Hozir ham bir vaqtning oʻzida {teachNow} ta joyga pul tikkan."
+      },
+      {
+        "who": "asst",
+        "mood": "sigh",
+        "text": "Jadvalda hammasi boʻlib {courses} ta. Oliy oʻquv yurti bir xil boʻlsa ham, kafedra boshqa boʻlsa, alohida yozdim."
+      }
+    ],
+    "edu": [
+      {
+        "who": "fly",
+        "mood": "arms",
+        "text": "Demak, iqtisodiyot doktori AI’dan dars berar ekan. Shuning uchun sen faqat pul haqida gapirasan-da."
+      },
+      {
+        "who": "robo",
+        "mood": "wow",
+        "text": "…sezib qolding. Baribir butun turkum davomida hukmni ma’lumotlar chiqaradi."
+      },
+      {
+        "who": "asst",
+        "mood": "smile",
+        "text": "Yangi kurs yoki patent paydo boʻlsa, bu yozuvlarni darhol tuzatib qoʻyaman. Oxirgi tuzatilgan sanani eng pastda koʻrsatib qoʻyaman."
+      }
+    ]
+  },
+  "about": {
+    "h2": "Tanishuv",
+    "infoH": "Basic Info",
+    "rows": [
+      [
+        "Ism",
+        "Ahn Sangsun (Ahn Sang Sun · Reon Ahn)"
+      ],
+      [
+        "Hozirgi lavozim",
+        "M-Robo kompaniyasi rahbari · Money-Robo noshiri"
+      ],
+      [
+        "Ilmiy daraja",
+        "Iqtisodiyot fanlari doktori (Dongguk universiteti, mikro-matematik iqtisodiyot)"
+      ],
+      [
+        "Elektron pochta",
+        "sangsun.ahn@gmail.com"
+      ]
+    ],
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/saladent/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/sangsun.ahn.5"
+      },
+      {
+        "label": "ahnboat.xyz",
+        "url": "https://ahnboat.xyz"
+      },
+      {
+        "label": "Money-Robo",
+        "url": "https://money-robo.com/home/money-robo-intro/"
+      },
+      {
+        "label": "Maqolalar · loyihalar (Notion)",
+        "url": "https://www.notion.so/mrobo2016/Reon-Ahn-s-Project-04e6d05b2f7744bbba3df0671ca4a085"
+      }
+    ],
+    "bioH": "U qanday inson?",
+    "bio": [
+      "Koreya elektr xavfsizligi korporatsiyasi va Maeil Business Newspaper gazetasida ishlagach, Maeil Business’ning tashqi venchuri <mark>M-Robo kompaniyasi</mark>ni asos solib, uning rahbari boʻlib ishlamoqda. M-Robo ommaviy axborot vositasi ichidagi venchur sifatida boshlangan media-venchur boʻlib, Kukmin Ilbo gazetasiga robot-jurnalist (Stockbot) xizmatini koʻrsatgan, Koreya internet va xavfsizlik agentligi, Koreya matbuot fondi, Koreya radioeshittirish va telekommunikatsiyalarni rivojlantirish agentligi kabi tashkilotlar bilan bir qancha loyihalarni amalga oshirgan. Hozir oʻzining AI yangiliklar gazetasi <mark>Money-Robo</mark>ni nashr etadi.",
+      "Rahbar sifatida Osiyo ochiq ma’lumotlar xakatonida gʻolib boʻlgan va ma’lumotlarga asoslangan tadbirkorlik sohasidagi xizmatlari uchun Ichki ishlar va xavfsizlik vazirligi (Koreya) vazir mukofotini ikki marta olgan. Sun’iy intellekt va blokcheyn sohasidagi 5 ta patent ixtirochisi, “AI jinoyatlari va oʻzini himoya qilish” kitobi muallifi.",
+      "Koreya texnologiya va ta’lim universiteti onlayn uzluksiz ta’lim institutida fintex, statistika va sun’iy intellekt boʻyicha elektron ta’lim kontentini ishlab chiqqan, Kookmin universiteti, Hoseo universiteti kabi koʻplab universitetlarda ma’lumotlar va sun’iy intellekt fanlaridan dars beradi."
+    ]
+  },
+  "work": {
+    "h2": "Ish tajribasi",
+    "lead": "Eng yangisi yuqorida. Moviy-yashil hoshiyali bandlar — hozir ham davom etayotgan ishlar.",
+    "items": [
+      {
+        "title": "Media startap M-Robo rahbari",
+        "from": "2016.06",
+        "to": ""
+      },
+      {
+        "title": "Robot-jurnalistika internet gazetasi \"Money-Robo\" noshiri",
+        "from": "2019.08",
+        "to": ""
+      },
+      {
+        "title": "Koreya menejment assotsiatsiyasi (KMA) Fintex qoʻllab-quvvatlash markazi qoʻshimcha professori — moliyaviy ma’lumotlar tahlili · sun’iy intellekt",
+        "from": "2020.07",
+        "to": "2025.11"
+      },
+      {
+        "title": "Koreya milliy axborot jamiyati agentligi (NIA) ma’lumotlar boʻyicha maslahatchisi",
+        "from": "2022.03",
+        "to": "2022.12"
+      },
+      {
+        "title": "Asia Economy gazetasi Fintech · Data-Science yoʻnalishi tashqi oʻqituvchisi",
+        "from": "2019.08",
+        "to": "2022.07"
+      },
+      {
+        "title": "Maekyung Media Group ichki venchur jamoasi rahbari",
+        "from": "2015.11",
+        "to": "2016.05"
+      },
+      {
+        "title": "Maeil Business Newspaper tahririyati Iqtisodiyot va menejment tadqiqot instituti tadqiqotchisi",
+        "from": "2014.04",
+        "to": "2015.10"
+      },
+      {
+        "title": "Koreya elektr xavfsizligi korporatsiyasi moliya boshqaruvi va mehnat-farovonlik boʻlimlari xodimi",
+        "from": "2011.02",
+        "to": "2014.04"
+      },
+      {
+        "title": "Koreya qishloq iqtisodiyoti instituti oʻrmon siyosati laboratoriyasi stajyor-tadqiqotchisi",
+        "from": "2009.07",
+        "to": "2011.01"
+      },
+      {
+        "title": "Maeil Business Newspaper tahririyati Iqtisodiyot va menejment tadqiqot instituti stajyor-tadqiqotchisi",
+        "from": "2008.07",
+        "to": "2009.07"
+      },
+      {
+        "title": "Semyung universiteti sanoat-akademik hamkorlik fondi tadqiqot yordamchisi",
+        "from": "2008.01",
+        "to": "2008.07"
+      }
+    ]
+  },
+  "robo": {
+    "h2": "Robot-jurnalistika loyihasi — Money-Robo",
+    "lead": "Ma’lumotlarni oʻqib, qimmatli qogʻozlar haqidagi maqolalarni oʻzi yozadigan internet gazeta. Ushbu turkumdagi Money-Robo qahramoni shu xizmatning maskotidir.",
+    "imgAlt": "Money-Robo bosh sahifasi. Robot logotipi ostida indekslar kotirovkasi tasmasi oqmoqda, KOSDAQ aksiyalarining narx grafiklari bilan birga avtomatik yozilgan oshkor qilish maqolalari sarlavhalari tizilgan",
+    "caption": "Money-Robo bosh sahifasi — narx grafiklari bilan birga avtomatik yozilgan oshkor qilish maqolalari",
+    "cardH": "Nima qiladi?",
+    "items": [
+      "<b>2016.06 ~</b> Media startap M-Robo’ga asos solgan, rahbar",
+      "<b>2019.08 ~</b> Robot-jurnalistikaga asoslangan internet gazeta \"Money-Robo\"ni nashr etadi",
+      "Kukmin Ilbo gazetasiga robot-jurnalist <b>Stockbot</b> xizmati",
+      "Qimmatli qogʻozlar boʻyicha oshkor qilishlar, indekslar va AQSH fond bozori haqidagi maqolalarni toʻgʻridan-toʻgʻri ma’lumotlardan yaratadi",
+      "Tegishli patentlar: aksiyalar haqida maqola yaratish qurilmasi (10-2135712), kriptovalyuta tahliliy yangiliklar xizmati (10-2618473)"
+    ],
+    "links": [
+      {
+        "label": "Xizmat tavsifini koʻrish",
+        "url": "https://money-robo.com/home/money-robo-intro/"
+      },
+      {
+        "label": "Tanishtiruv videosi (YouTube)",
+        "url": "https://www.youtube.com/watch?v=CXmNDfDT1j0"
+      }
+    ]
+  },
+  "ip": {
+    "h2": "Patentlar — roʻyxatdan oʻtgan {patents} ta",
+    "lead": "Sohani bosib saralashingiz mumkin. Patent guvohnomasini bossangiz, kattalashtirib koʻrsatiladi. Bundan tashqari \"Kriptovalyuta kabi virtual aktivlarning volatilligini oʻlchash usuli\" (10-2019-0010699) va boshqalar boʻyicha 10 ta ariza bor.",
+    "chipsLabel": "Patentlarni soha boʻyicha saralash",
+    "fields": {
+      "j": "Robot-jurnalistika",
+      "e": "Energetika · iqlim",
+      "bc": "Blokcheyn",
+      "r": "Tavsiya tizimlari"
+    },
+    "noFmt": "№ {no}",
+    "datesFmt": "Ariza {filed} · Roʻyxatga olingan {reg}",
+    "ownerFmt": "Patent egasi: {owner}",
+    "altFmt": "Patent guvohnomasi № {no}",
+    "capFmt": "Patent № {no} — {title}",
+    "tlH": "Arizadan roʻyxatga olishgacha",
+    "tlSrFmt": "{title}: ariza {filed}, roʻyxatga olingan {reg}, taxminan {years} yil",
+    "tlNote": "Ustunning chap uchi — ariza sanasi, oʻng uchi — roʻyxatga olingan sana. Arizadan roʻyxatga olishgacha oʻrtacha <b>{avg} yil</b> ketgan.",
+    "items": [
+      {
+        "no": "10-2135712",
+        "title": "Aksiyalar haqida maqola yaratish qurilmasi va usuli",
+        "field": "j",
+        "app": "10-2017-0183467",
+        "filed": "2017.12.29",
+        "reg": "2020.07.14",
+        "owner": "M-Robo kompaniyasi",
+        "img": "p1"
+      },
+      {
+        "no": "10-2486672",
+        "title": "Quyosh energiyasi ma’lumotlaridan foydalanib issiq toʻlqin zararini bashorat qilish tizimi va usuli",
+        "field": "e",
+        "app": "10-2018-0150546",
+        "filed": "2018.11.29",
+        "reg": "2023.01.05",
+        "owner": "M-Robo kompaniyasi",
+        "img": "p2"
+      },
+      {
+        "no": "10-2555652",
+        "title": "Blokcheyn ma’lumotlarini monitoring qilish orqali anomaliyalarni aniqlash tizimi va usuli",
+        "field": "bc",
+        "app": "10-2018-0150559",
+        "filed": "2018.11.29",
+        "reg": "2023.07.11",
+        "owner": "Ahn Sangsun",
+        "img": "p3"
+      },
+      {
+        "no": "10-2618473",
+        "title": "Robot-jurnalistikadan foydalangan holda kriptovalyuta boʻyicha tahliliy yangiliklar kontenti xizmati tizimi va uni koʻrsatish usuli",
+        "field": "j",
+        "app": "10-2018-0050193",
+        "filed": "2018.04.30",
+        "reg": "2023.12.21",
+        "owner": "Ahn Sangsun",
+        "img": "p4"
+      },
+      {
+        "no": "10-2666665",
+        "title": "Rasm tavsiya qilish usuli, qurilmasi, kompyuterda oʻqiladigan yozuv vositasi va kompyuter dasturi",
+        "field": "r",
+        "app": "10-2021-0060289",
+        "filed": "2021.05.10",
+        "reg": "2024.05.13",
+        "owner": "M-Robo kompaniyasi",
+        "img": "p5"
+      }
+    ]
+  },
+  "pubs": {
+    "h2": "Kitob va maqolalar",
+    "book": {
+      "title": "“AI jinoyatlari va oʻzini himoya qilish”",
+      "alt": "“AI jinoyatlari va oʻzini himoya qilish” kitobining muqovasi. Koʻk qiya chiziqli hoshiya ichida sarlavha, tavsif matni va muallif surati bor",
+      "caption": "“AI jinoyatlari va oʻzini himoya qilish” · Communication Books, 2025 · Sun’iy intellekt kutubxonasi turkumi",
+      "desc": "AI jinoyatlarda qoʻllanilgan real holatlarni toʻplab, jinoyatchilar nega aynan AI’ni tanlashini jinoyat iqtisodiyoti nuqtai nazaridan soʻraydi. Jinoyatchilar ham xarajat va foydani hisoblaydi degan qarashdan kelib chiqib, AI jinoyatning xarajatlar tuzilmasi va daromad modelini qanday oʻzgartirganini tushuntirib beradigan kitob."
+    },
+    "chipsLabel": "Maqolalarni turi boʻyicha saralash",
+    "kinds": {
+      "j": "Ilmiy jurnal",
+      "c": "Konferensiya · ma’ruza",
+      "o": "Hisobot"
+    },
+    "soloLabel": "Yakka muallif",
+    "items": [
+      {
+        "date": "2025.07",
+        "title": "Milliy keksalik ta’minoti panel ma’lumotlaridan foydalangan holda uy xoʻjaligi xarajatlarini bashorat qilish modeli tadqiqoti: sun’iy intellekt modellariga asoslangan yondashuv",
+        "src": "“Future Society” 16-jild, 2-son · taqrizli ilmiy jurnal",
+        "kind": "j",
+        "solo": true,
+        "url": "https://ifso.iscu.ac.kr/02_res/sub2_1_view.asp?idx=508"
+      },
+      {
+        "date": "2025.05",
+        "title": "Milliy keksalik ta’minoti panel ma’lumotlaridan foydalangan holda uy xoʻjaligi xarajatlarini bashorat qilish modeli tadqiqoti: sun’iy intellekt yondashuvi",
+        "src": "Milliy keksalik ta’minoti paneli ilmiy konferensiyasidagi ma’ruza · Milliy pensiya xizmati Milliy pensiya tadqiqot instituti",
+        "kind": "c",
+        "solo": false,
+        "url": "https://drive.google.com/file/d/1LbYLSxtmmWZGBAwKHrnaLMIA-RX4dCD0/view?usp=sharing"
+      },
+      {
+        "date": "2025.03",
+        "title": "SNS matnlariga asoslangan giyohvand moddalar savdosiga shubhali bitimlarni aniqlash algoritmi tadqiqoti: naqsh va kontekst tahlili asosida",
+        "src": "“Future Society” 16-jild, 1-son · taqrizli ilmiy jurnal",
+        "kind": "j",
+        "solo": true,
+        "url": "https://ifso.iscu.ac.kr/02_res/sub2_1_view.asp?idx=490"
+      },
+      {
+        "date": "2024.11",
+        "title": "Moliya sohasidagi anomaliyalarni aniqlash modellari xavfsizligi uchun statistikaga asoslangan raqib ma’lumotlarga qarshi choralar — empirik tahlil va simulyatsiya natijalari",
+        "src": "“Future Society” 15-jild, 3-son · taqrizli ilmiy jurnal",
+        "kind": "j",
+        "solo": true,
+        "url": "https://ifso.iscu.ac.kr/02_res/sub2_1_view.asp?idx=464"
+      },
+      {
+        "date": "2024.06",
+        "title": "Sun’iy intellekt yordamida virtual qahramon xususiyatlariga asoslangan SNS postlarini aniqlash yechimi",
+        "src": "Seul media texnologiyalari instituti 2024 Summer Newmedia Party poster ma’ruzasi",
+        "kind": "c",
+        "solo": false,
+        "url": ""
+      },
+      {
+        "date": "2024.05",
+        "title": "Ishlab chiqarishdagi baxtsiz hodisalar panel ma’lumotlaridan foydalangan mashinali oʻqitish modeli",
+        "src": "10-Ishlab chiqarishdagi baxtsiz hodisalar sugʻurtasi paneli ilmiy konferensiyasi poster ma’ruzasi · Mehnat farovonligi tadqiqot instituti",
+        "kind": "c",
+        "solo": false,
+        "url": ""
+      },
+      {
+        "date": "2024.02",
+        "title": "Virtual aktivlar vaqt qatori ma’lumotlarini tahlil qilish va bashorat qilish — vaqt qatori modellari va sun’iy intellekt modellarini taqqoslash, takomillashtirish takliflari",
+        "src": "“Future Society” 15-jild, 1-son · taqrizli ilmiy jurnal",
+        "kind": "j",
+        "solo": true,
+        "url": "https://ifso.iscu.ac.kr/02_res/sub2_1_view.asp?idx=379"
+      },
+      {
+        "date": "2021.12",
+        "title": "Kriptovalyuta aktivlarining axborot samaradorligi tadqiqoti",
+        "src": "“Future Society” 12-jild, 2-son",
+        "kind": "j",
+        "solo": true,
+        "url": "https://ifso.iscu.ac.kr/02_res/sub2_1_view.asp?idx=204"
+      },
+      {
+        "date": "2018",
+        "title": "ERC-20 iqtisodiy samaradorligi tahlili",
+        "src": "EDCON 2018 ma’ruzasi",
+        "kind": "c",
+        "solo": false,
+        "url": "https://decenter.kr/NewsView/1VJB0BLUD4"
+      },
+      {
+        "date": "—",
+        "title": "Mediaga asoslangan blokcheynning iqtisodiy samarasi va samaradorligi tahlili",
+        "src": "Koreya jurnalistika va kommunikatsiya tadqiqotlari jamiyatining 50 yillik ilmiy konferensiyasi",
+        "kind": "c",
+        "solo": false,
+        "url": ""
+      },
+      {
+        "date": "2017",
+        "title": "Oʻrta va katta yoshdagilarning xususiy tadbirkorlik bozori tadqiqoti — yangi ochilgan va mavjud bizneslarni taqqoslash asosida",
+        "src": "2017 Bandlik panel tadqiqoti ilmiy konferensiyasi · Koreya bandlik axboroti xizmati, Bandlik va mehnat vazirligi",
+        "kind": "c",
+        "solo": false,
+        "url": ""
+      },
+      {
+        "date": "—",
+        "title": "Sun’iy intellekt va robot-jurnalistika",
+        "src": "KISTI MARKET REPORT sun’iy intellekt maxsus soni",
+        "kind": "o",
+        "solo": false,
+        "url": ""
+      }
+    ]
+  },
+  "teach": {
+    "h2": "Dars berish tajribasi",
+    "lead": "Hozirgacha dars bergan oliy oʻquv yurtlari va fanlar. Ustunlar dars berilgan davrni, sariq vertikal chiziq esa bugungi kunni bildiradi.",
+    "chipsLabel": "Dars berish tajribasini saralash",
+    "chipAll": "Hammasi {n} ta",
+    "chipNow": "Hozir dars berilmoqda: {n} ta",
+    "chipProf": "Qoʻshimcha · tashrif buyuruvchi professor: {n} ta",
+    "legendNow": "Hozir dars berilmoqda",
+    "legendPast": "Tugagan kurslar",
+    "legendToday": "Bugun",
+    "barFmt": "{school} {subjects}, {from} dan {to} gacha",
+    "tableH": "Toʻliq jadval",
+    "th": [
+      "Oliy oʻquv yurti · boʻlinma",
+      "Fanlar",
+      "Lavozim",
+      "Davr"
+    ],
+    "items": [
+      {
+        "school": "Gachon universiteti",
+        "dept": "Biznes fakulteti, Buxgalteriya va soliq kafedrasi",
+        "subjects": "Python va buxgalteriya ma’lumotlari tahlili",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2026.09",
+        "to": ""
+      },
+      {
+        "school": "Kongju milliy universiteti",
+        "dept": "Yashil aqlli arxitektura magistraturasi",
+        "subjects": "AI yordamida ma’lumotlar tahlili, AI yordamida aqlli jarayonlarni optimallashtirish",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2026.03",
+        "to": ""
+      },
+      {
+        "school": "Kyonggi universiteti",
+        "dept": "Kichik va oʻrta korxonalar uchun AI integratsiyasi kafedrasi",
+        "subjects": "AI dasturlash, aqlli ishlab chiqarish",
+        "role": "qoʻshimcha professor",
+        "roleType": "prof",
+        "from": "2026.03",
+        "to": ""
+      },
+      {
+        "school": "Koreya texnologiya va ta’lim universiteti",
+        "dept": "Bandlik xizmatlari siyosati kafedrasi",
+        "subjects": "Mehnat iqtisodiyoti",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2026.03",
+        "to": ""
+      },
+      {
+        "school": "Fan va texnologiyalar universiteti (UST)",
+        "dept": "",
+        "subjects": "Sun’iy intellekt (umumiy kurs)",
+        "role": "qoʻshimcha professor",
+        "roleType": "prof",
+        "from": "2025.03",
+        "to": "2025.12"
+      },
+      {
+        "school": "Koreya ochiq kiber universiteti",
+        "dept": "Sun’iy intellekt integratsiyasi kafedrasi",
+        "subjects": "Biznes uchun ma’lumotlar fani",
+        "role": "tashrif buyuruvchi professor",
+        "roleType": "prof",
+        "from": "2025.09",
+        "to": ""
+      },
+      {
+        "school": "Eulji universiteti",
+        "dept": "Klinik laboratoriya fanlari kafedrasi",
+        "subjects": "Sogʻliqni saqlash statistikasi va R",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2024.03",
+        "to": ""
+      },
+      {
+        "school": "Hanbat milliy universiteti",
+        "dept": "Iqtisodiyot kafedrasi",
+        "subjects": "Ekonometrika, fond bozori va aksiya narxlari",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2024.09",
+        "to": "2026.06"
+      },
+      {
+        "school": "Hannam universiteti",
+        "dept": "Talmage umumiy ta’lim va integratsiya kolleji",
+        "subjects": "Generativ AI’dan foydalanish strategiyasi",
+        "role": "qoʻshimcha professor · oʻqituvchi (lektor)",
+        "roleType": "prof",
+        "from": "2024.09",
+        "to": ""
+      },
+      {
+        "school": "Seul media texnologiyalari instituti",
+        "dept": "Sun’iy intellekt amaliy dasturiy ta’minoti kafedrasi",
+        "subjects": "Moliyaviy buxgalteriya va investitsiyalarni boshqarish, AI Business case study (ingliz tilida), ma’lumotlarga asoslangan buxgalteriya tahlili va investitsiya strategiyasi, Financial Accounting and Investment Management (ingliz tilida)",
+        "role": "qoʻshimcha professor",
+        "roleType": "prof",
+        "from": "2024.03",
+        "to": ""
+      },
+      {
+        "school": "Kookmin universiteti",
+        "dept": "Dasturiy ta’minot integratsiyasi magistraturasi",
+        "subjects": "Mashinali oʻqitish loyihasi, AI amaliy tizimlari",
+        "role": "qoʻshimcha professor",
+        "roleType": "prof",
+        "from": "2023.09",
+        "to": ""
+      },
+      {
+        "school": "Hoseo universiteti",
+        "dept": "Biznes boshqaruvi fakulteti",
+        "subjects": "Biznes statistikasi, ma’lumotlar tahlili",
+        "role": "qoʻshimcha professor",
+        "roleType": "prof",
+        "from": "2023.03",
+        "to": ""
+      },
+      {
+        "school": "Seul integratsiyalashgan fanlar va texnologiyalar maktabi (ASSIST)",
+        "dept": "Moliya MBA dasturi",
+        "subjects": "Moliyaviy katta ma’lumotlar tahlili moduli",
+        "role": "tashrif buyuruvchi professor",
+        "roleType": "prof",
+        "from": "2022.09",
+        "to": "2023.06"
+      },
+      {
+        "school": "Soongsil universiteti",
+        "dept": "Moliya fakulteti",
+        "subjects": "Moliyaviy mashinali oʻqitish, moliyaviy katta ma’lumotlar tahlili va boshqalar",
+        "role": "qoʻshimcha professor",
+        "roleType": "prof",
+        "from": "2021.03",
+        "to": "2023.02"
+      },
+      {
+        "school": "Kangnam universiteti",
+        "dept": "Muhandislik kolleji, AKT fakulteti",
+        "subjects": "Ochiq davlat ma’lumotlarini tushunish va tahlil qilish, ma’lumotlarni statistik tahlil qilish, ma’lumotlar bazasi asoslari, keksalar ma’lumotlari tahlili, loyiha boshqaruvi",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2021.03",
+        "to": "2023.12"
+      },
+      {
+        "school": "Kangnam universiteti",
+        "dept": "Elektronika va yarimoʻtkazgichlar muhandisligi fakulteti",
+        "subjects": "Ma’lumotlar bazasini loyihalash, amaliy statistika, aqlli zavod ma’lumotlari tahlili, ma’lumotlarni qayta ishlash va tahlil texnologiyalari, axborot tizimlarini tahlil qilish va loyihalash, ma’lumotlarni vizuallashtirish, Python bilan mashinali oʻqitish",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2024.03",
+        "to": ""
+      },
+      {
+        "school": "Baewha ayollar universiteti",
+        "dept": "Biznes boshqaruvi boʻlimi",
+        "subjects": "Ma’lumotlar tahlili (Excel)",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2021.09",
+        "to": "2021.12"
+      },
+      {
+        "school": "Koreya katolik universiteti",
+        "dept": "Umumiy ta’lim kursi",
+        "subjects": "Tasodif ilmi: statistika",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2020.03",
+        "to": ""
+      },
+      {
+        "school": "Seul kiber universiteti",
+        "dept": "Moliya va sugʻurta kafedrasi",
+        "subjects": "Toʻrtinchi sanoat inqilobi davrida moliya",
+        "role": "qoʻshimcha professor",
+        "roleType": "prof",
+        "from": "2020.03",
+        "to": ""
+      },
+      {
+        "school": "Hanbat milliy universiteti",
+        "dept": "Tadbirkorlik va menejment kafedrasi",
+        "subjects": "Elektron biznesni tushunish, korporativ boshqaruv va axborot texnologiyalari",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2020.03",
+        "to": "2023.02"
+      },
+      {
+        "school": "Kumoh milliy texnologiya instituti",
+        "dept": "Konsalting magistraturasi",
+        "subjects": "AKT amaliy biznes modellari, blokcheyn biznes modellari, sun’iy intellekt keyslarini oʻrganish va boshqalar",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2022.03",
+        "to": "2023.02"
+      },
+      {
+        "school": "Jeju milliy universiteti",
+        "dept": "Sogʻliqni saqlash magistraturasi",
+        "subjects": "Sogʻliqni saqlash statistikasi, hamshiralik ishi boʻyicha ilgʻor statistika",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2021.03",
+        "to": "2025.12"
+      },
+      {
+        "school": "Eulji universiteti",
+        "dept": "Dafn marosimlarini boshqarish kafedrasi",
+        "subjects": "Sogʻliqni saqlash statistikasiga kirish",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2021.03",
+        "to": "2023.02"
+      },
+      {
+        "school": "Jeju turizm universiteti",
+        "dept": "Turizm fakulteti",
+        "subjects": "Toʻrtinchi sanoat inqilobi va katta ma’lumotlar",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2021.03",
+        "to": "2021.06"
+      },
+      {
+        "school": "Koreya milliy sport universiteti",
+        "dept": "Umumiy ta’lim kursi",
+        "subjects": "Kundalik hayotdagi iqtisodiyot, iqtisodiyotni tushunish",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2020.03",
+        "to": "2026.02"
+      },
+      {
+        "school": "KC universiteti",
+        "dept": "Biznes va katta ma’lumotlar kafedrasi",
+        "subjects": "Investitsiya nazariyasi, moliyaviy tahlil",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2020.03",
+        "to": "2021.02"
+      },
+      {
+        "school": "Kangwon milliy universiteti",
+        "dept": "Iqtisodiyot kafedrasi",
+        "subjects": "Moliyaviy ekonometrika, ekonometrika, iqtisodiyot nazariyasi asoslari",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2020.03",
+        "to": "2021.02"
+      },
+      {
+        "school": "Inha universiteti",
+        "dept": "Kelajak konvergent texnologiyalari magistraturasi",
+        "subjects": "Startup and Innovation",
+        "role": "qoʻshimcha professor",
+        "roleType": "prof",
+        "from": "2019.08",
+        "to": "2020.06"
+      },
+      {
+        "school": "Gachon universiteti",
+        "dept": "Umumiy ta’lim kursi",
+        "subjects": "Tadbirkorlik va intellektual mulk va boshqalar",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2019.03",
+        "to": "2025.02"
+      },
+      {
+        "school": "Daejeon universiteti",
+        "dept": "Umumiy ta’lim kursi",
+        "subjects": "Virtual valyuta texnologiyalari, statistikadan foydalanish",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2019.09",
+        "to": "2025.06"
+      },
+      {
+        "school": "Baekseok universiteti",
+        "dept": "Umumiy ta’lim kursi",
+        "subjects": "Toʻrtinchi sanoat inqilobini tushunish",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2019.09",
+        "to": "2023.02"
+      },
+      {
+        "school": "Hanbat milliy universiteti",
+        "dept": "Umumiy ta’lim kursi",
+        "subjects": "Kelajak texnologiyalari va jamiyat",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2019.03",
+        "to": "2019.08"
+      },
+      {
+        "school": "Koreya media san’ati universiteti",
+        "dept": "Umumiy ta’lim kursi",
+        "subjects": "Kontent va toʻrtinchi sanoat inqilobi",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2019.03",
+        "to": "2019.08"
+      },
+      {
+        "school": "Woosong universiteti",
+        "dept": "Umumiy ta’lim kursi",
+        "subjects": "Toʻrtinchi sanoat inqilobi va katta ma’lumotlar",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2017.09",
+        "to": "2019.06"
+      },
+      {
+        "school": "Kongju milliy universiteti",
+        "dept": "Sanoat kolleji",
+        "subjects": "Ijtimoiy fanlar tadqiqot metodologiyasi",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2017.03",
+        "to": "2017.06"
+      },
+      {
+        "school": "Dongguk universiteti",
+        "dept": "Iqtisodiyot kafedrasi",
+        "subjects": "Axborot iqtisodiyoti",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2017.03",
+        "to": "2017.06"
+      },
+      {
+        "school": "Dongguk universiteti",
+        "dept": "Iqtisodiyot kafedrasi",
+        "subjects": "Mikroiqtisodiyot asoslari, mikroiqtisodiyot",
+        "role": "oʻqituvchi (lektor)",
+        "roleType": "lect",
+        "from": "2014.09",
+        "to": "2015.06"
+      }
+    ]
+  },
+  "elearn": {
+    "h2": "Elektron ta’lim kontenti",
+    "lead": "Koreya texnologiya va ta’lim universiteti onlayn uzluksiz ta’lim instituti (STEP)ning bepul elektron ta’lim kurslarida mazmun eksperti sifatida ishtirok etgan.",
+    "items": [
+      {
+        "img": "c_fintech",
+        "meta": "2024 · elektron ta’lim, 13 soat",
+        "title": "Fintex ma’lumotlari tahlili asoslari",
+        "desc": "Moliyaviy ma’lumotlar bilan ishlash asoslaridan tahlilgacha. Kompyuter va mobil qurilmalarda ishlaydi.",
+        "alt": "Fintex ma’lumotlari tahlili asoslari kursi banneri. Chapda kurs nomi, oʻngda oʻqituvchi surati va oʻquv ma’lumotlari jadvali bor",
+        "btn": "Kursni koʻrish",
+        "url": "https://link.step.or.kr/brqEyc"
+      },
+      {
+        "img": "",
+        "meta": "2025 · elektron ta’lim",
+        "title": "Ma’lumotlar olimlari uchun Bayes statistikasi",
+        "desc": "Dastlabki ishonchni ma’lumotlar bilan tuzatib boradigan Bayes usullarini ma’lumotlar fanidagi qoʻllanilishi bilan birga oʻrganadi.",
+        "alt": "Ma’lumotlar olimlari uchun Bayes statistikasi kursi muqovasi",
+        "btn": "STEP’dan qidirish",
+        "url": "https://www.step.or.kr/"
+      },
+      {
+        "img": "c_nlp",
+        "meta": "2025 · elektron ta’lim, 8 soat",
+        "title": "[K-Digital] Sun’iy intellekt: tabiiy tilni qayta ishlash",
+        "desc": "Tabiiy til ma’lumotlarini tahlil qilish jarayoni va modellarini dars-ma-dars oʻrganasiz. Mamnunlik — besh yulduz.",
+        "alt": "[K-Digital] Sun’iy intellekt: tabiiy tilni qayta ishlash kursi sahifasi. Besh yulduzli mamnunlik bahosi, 8 soatlik oʻqish vaqti va darslar mundarijasi koʻrinib turibdi",
+        "btn": "STEP’dan qidirish",
+        "url": "https://www.step.or.kr/"
+      }
+    ]
+  },
+  "proj": {
+    "h2": "Davlat loyihalari",
+    "lead": "Hukumat va davlat tashkilotlari loyihalaridagi vazifalar. Koʻpchiligida bosh PM boʻlgan.",
+    "th": [
+      "Davr",
+      "Loyiha (dastur)",
+      "Vazifa",
+      "Mas’ul tashkilot (hamkorlar)"
+    ],
+    "items": [
+      {
+        "from": "2026.09",
+        "to": "2026.12",
+        "title": "Giyohvandlik jinoyatlari va axloq tuzatish muassasalaridagi qaramlikdan reabilitatsiya tizimining ijtimoiy xarajatlarini qiyosiy tahlil qilish",
+        "role": "Hammuallif tadqiqotchi",
+        "roleType": "other",
+        "org": "Adliya vazirligi, Semyung universiteti sanoat-akademik hamkorlik fondi"
+      },
+      {
+        "from": "2026.08",
+        "to": "2026.11",
+        "title": "Amaliyotga yoʻnaltirilgan AX murabbiylarini tayyorlash kursi — ishlab chiqarish uchun AX kursi (ishlab chiqarish / boshqaruvni qoʻllab-quvvatlash)",
+        "role": "Oʻquv materiallarini loyihalash · dars berish",
+        "roleType": "other",
+        "org": "Koreya IT ayol tadbirkorlar assotsiatsiyasi, Axborot-kommunikatsiya sanoatini rivojlantirish agentligi, Ulsan axborot sanoatini rivojlantirish agentligi"
+      },
+      {
+        "from": "2021.06",
+        "to": "2025.12",
+        "title": "Ishlayotgan mutaxassislar uchun sun’iy intellekt-fintex oʻquv modullarini yaratish va ular boʻyicha dars berish",
+        "role": "Hamkorlikda ishlab chiqish",
+        "roleType": "other",
+        "org": "Axborot-kommunikatsiya sanoatini rivojlantirish agentligi (Fintex qoʻllab-quvvatlash markazi, Koreya menejment assotsiatsiyasi)"
+      },
+      {
+        "from": "2021.06",
+        "to": "2022.02",
+        "title": "Masofaviy startaplarni qoʻllab-quvvatlash dasturi (media sohasi)",
+        "role": "Bosh PM",
+        "roleType": "pm",
+        "org": "Koreya startaplarni rivojlantirish instituti, Koreya radioeshittirish va telekommunikatsiyalarni rivojlantirish agentligi"
+      },
+      {
+        "from": "2021.06",
+        "to": "2021.12",
+        "title": "Fintex API ishlab chiqishni qoʻllab-quvvatlash dasturi",
+        "role": "Bosh PM",
+        "roleType": "pm",
+        "org": "Koreya internet va xavfsizlik agentligi"
+      },
+      {
+        "from": "2020.06",
+        "to": "2020.12",
+        "title": "Aqlli media mahsulotlarini tijoratlashtirishni qoʻllab-quvvatlash dasturi",
+        "role": "Bosh PM",
+        "roleType": "pm",
+        "org": "Koreya radioeshittirish va telekommunikatsiyalarni rivojlantirish agentligi"
+      },
+      {
+        "from": "2019.06",
+        "to": "2019.12",
+        "title": "Fintex API ishlab chiqishni qoʻllab-quvvatlash dasturi",
+        "role": "Bosh PM",
+        "roleType": "pm",
+        "org": "Koreya internet va xavfsizlik agentligi"
+      },
+      {
+        "from": "2017.06",
+        "to": "2017.12",
+        "title": "Yangiliklar katta ma’lumotlari startaplarini qoʻllab-quvvatlash dasturi",
+        "role": "Bosh PM",
+        "roleType": "pm",
+        "org": "Koreya matbuot fondi"
+      },
+      {
+        "from": "2017.06",
+        "to": "2017.12",
+        "title": "Fintex API ishlab chiqishni qoʻllab-quvvatlash dasturi",
+        "role": "Bosh PM",
+        "roleType": "pm",
+        "org": "Koreya internet va xavfsizlik agentligi"
+      },
+      {
+        "from": "2017.06",
+        "to": "2018.02",
+        "title": "Yetakchi tadbirkorlik universiteti (ixtisoslashgan texnologiyalar yoʻnalishi)",
+        "role": "Bosh PM",
+        "roleType": "pm",
+        "org": "Koreya startaplarni rivojlantirish instituti, Dongguk universiteti sanoat-akademik hamkorlik fondi"
+      }
+    ]
+  },
+  "awards": {
+    "h2": "Mukofotlar",
+    "lead": "Ustunni bossangiz, faqat oʻsha yilgi mukofotlar koʻrinadi. Yana bir marta bossangiz, hammasiga qaytadi. ★ — vazir va agentlik rahbari darajasidagi mukofot.",
+    "chartH": "Yillar boʻyicha mukofotlar soni",
+    "chartLabel": "Yillar boʻyicha mukofotlar soni",
+    "barFmt": "{y}-yil: {n} ta",
+    "listAllFmt": "Jami mukofotlar: {n} ta",
+    "listYearFmt": "{y}-yil mukofotlari: {n} ta",
+    "starLabel": "Vazir · agentlik rahbari darajasi",
+    "items": [
+      {
+        "date": "2023.12",
+        "title": "AI Hub xavfsiz zona ma’lumotlaridan foydalanish tanlovi, a’lo mukofoti — keksa ishchilar uchun sun’iy intellektga asoslangan suyak-skelet kasalliklari xavfini tashxislash xizmati",
+        "org": "Koreya milliy axborot jamiyati agentligi",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2022.12",
+        "title": "Ochiq davlat ma’lumotlaridan foydalangan holda xususiy tadbirkorlikni qoʻllab-quvvatlash sohasidagi xizmatlari uchun mukofot",
+        "org": "Ichki ishlar va xavfsizlik vazirligi (Koreya) vazir mukofoti",
+        "minister": true,
+        "hackathon": false
+      },
+      {
+        "date": "2022.10",
+        "title": "Aqlli media tijoratlashtirish yoʻnalishi, a’lo mukofoti",
+        "org": "Koreya radioeshittirish va telekommunikatsiyalarni rivojlantirish agentligi rahbari mukofoti",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2021.11",
+        "title": "3-Katta ma’lumotlar · sun’iy intellekt startaplari tanlovi, maxsus mukofot",
+        "org": "Koreya gaz korporatsiyasi",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2020.12",
+        "title": "Osaka–Koreya startaplari pitching tanlovi finalida 3-oʻrin",
+        "org": "KOTRA Osaka",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2019.07",
+        "title": "Smart Media Camp X Jeonju, oliy mukofot",
+        "org": "Koreya radiochastotalarni rivojlantirish agentligi rahbari mukofoti",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2018.12",
+        "title": "NTIS (ilmiy tadqiqot axboroti) ma’lumotlaridan foydalanish tanlovi, a’lo mukofoti",
+        "org": "KISTI direktori mukofoti",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2018.09",
+        "title": "2018 Osiyo ochiq ma’lumotlar xakatonida gʻalaba",
+        "org": "Ichki ishlar va xavfsizlik vazirligi (Koreya) vazir mukofoti, HERE (tashkilotchi) mukofoti",
+        "minister": true,
+        "hackathon": true
+      },
+      {
+        "date": "2018.08",
+        "title": "Sanoat vazirligi ma’lumotlar tanlovi, biznes yoʻnalishi a’lo mukofoti",
+        "org": "Korea Hydro & Nuclear Power prezidenti mukofoti",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2018.07",
+        "title": "Jamoat manfaatiga asoslangan intellektual mulk xizmatlari tanlovi, a’lo mukofoti",
+        "org": "Seul shahar universiteti rektori mukofoti",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2018.06",
+        "title": "2018 Intellektual mulk xizmatlari tanlovi, a’lo mukofoti",
+        "org": "Koreya intellektual mulk idorasi rahbari mukofoti",
+        "minister": true,
+        "hackathon": false
+      },
+      {
+        "date": "2016.11",
+        "title": "Fintex moliyaviy API xakatoni, ragʻbatlantiruvchi mukofot",
+        "org": "Koreya internet va xavfsizlik agentligi rahbari mukofoti",
+        "minister": false,
+        "hackathon": true
+      },
+      {
+        "date": "2016.11",
+        "title": "Aqlli tarmoq (Smart Grid) xakatoni, ragʻbatlantiruvchi mukofot",
+        "org": "Milliy axborotlashtirish agentligi rahbari mukofoti",
+        "minister": false,
+        "hackathon": true
+      },
+      {
+        "date": "2016.11",
+        "title": "Yangi oʻrmon mahsulotlari narxlari ma’lumotlaridan foydalanish gʻoyalar tanlovi",
+        "org": "Koreya oʻrmon xoʻjaligini rivojlantirish instituti rahbari mukofoti",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2016.10",
+        "title": "Gyeonggi provinsiyasi katta ma’lumotlar startaplari, biznes yoʻnalishida mukofot",
+        "org": "Gyeonggi provinsiyasi",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2015.11",
+        "title": "1-Maekyung Mediathon xakatoni, innovatsiya mukofoti",
+        "org": "Maekyung Media Group",
+        "minister": false,
+        "hackathon": true
+      },
+      {
+        "date": "2013.06",
+        "title": "Namunali xodim sifatida kompaniya ichki taqdirlashi",
+        "org": "Koreya elektr xavfsizligi korporatsiyasi prezidenti mukofoti",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2011.04",
+        "title": "Bozor iqtisodiyoti tadqiqot instituti maqola va gʻoyalar tanlovi",
+        "org": "Korea Economic Daily prezidenti mukofoti",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2010.11",
+        "title": "Dongguk universiteti magistratura maktabi Dongwon ilmiy mukofoti maqolalar tanlovi, oliy mukofot",
+        "org": "Dongguk universiteti",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2009.11",
+        "title": "Dongguk universiteti magistratura maktabi Dongwon ilmiy mukofoti maqolalar tanlovi, ragʻbatlantiruvchi mukofot",
+        "org": "Dongguk universiteti",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2009.02",
+        "title": "Video kontent boʻyicha maqolalar tanlovi, a’lo mukofoti",
+        "org": "—",
+        "minister": false,
+        "hackathon": false
+      }
+    ]
+  },
+  "edu": {
+    "h2": "Ta’lim va ijtimoiy faoliyat",
+    "eduH": "Ta’lim",
+    "socialH": "Ijtimoiy faoliyat",
+    "eduItems": [
+      {
+        "title": "Dongguk universiteti magistratura maktabi, Iqtisodiyot kafedrasi, doktorantura (PhD)",
+        "note": "Mikro-matematik iqtisodiyot",
+        "from": "2009.09",
+        "to": "2012.08"
+      },
+      {
+        "title": "Dongguk universiteti magistratura maktabi, Iqtisodiyot kafedrasi, magistratura",
+        "note": "",
+        "from": "2005.09",
+        "to": "2009.08"
+      },
+      {
+        "title": "Dongguk universiteti Biznes fakulteti Soliq va buxgalteriya kafedrasi hamda Iqtisodiyot kafedrasini tamomlagan",
+        "note": "",
+        "from": "2001.03",
+        "to": "2005.08"
+      },
+      {
+        "title": "Yangjae innovatsion R&CD sun’iy intellekt yetakchilarini tayyorlash kursini tamomlagan",
+        "note": "",
+        "from": "2018.03",
+        "to": "2018.12"
+      }
+    ],
+    "socialItems": [
+      {
+        "title": "Ichki ishlar vazirligi va Milliy axborotlashtirish agentligi qoshidagi ochiq davlat ma’lumotlari sifati boʻyicha tashqi maslahatchi",
+        "note": "",
+        "from": "2019.05",
+        "to": "2022.12"
+      },
+      {
+        "title": "Seul shahri 7-chaqiriq «Hayotga yaqin siyosat» fuqarolar ishtiroki guruhi a’zosi",
+        "note": "",
+        "from": "2019.03",
+        "to": "2021.12"
+      },
+      {
+        "title": "Iste’molchilar IT savodxonligi maktabini tamomlagan — «Iste’molchilar bilan birga» jamiyati",
+        "note": "",
+        "from": "2017.04",
+        "to": "2017.07"
+      },
+      {
+        "title": "Ichki ishlar vazirligi axborotni oshkor qilish boʻyicha fuqarolar monitoring guruhi a’zosi",
+        "note": "",
+        "from": "2015.03",
+        "to": "2015.12"
+      },
+      {
+        "title": "Strategiya va moliya vazirligi siyosat monitoring guruhi a’zosi",
+        "note": "",
+        "from": "2011.03",
+        "to": "2011.12"
+      },
+      {
+        "title": "Koreya inson resurslarini rivojlantirish xizmati 2-chaqiriq mijozlar paneli monitor a’zosi",
+        "note": "",
+        "from": "2011.03",
+        "to": "2011.12"
+      },
+      {
+        "title": "Ijtimoiy korxona Gonggam Manse kompaniyasida boshqaruvni rejalashtirish boʻyicha pro bono faoliyat",
+        "note": "",
+        "from": "2010.03",
+        "to": "-"
+      }
+    ]
+  },
+  "footer": {
+    "line1": "<b>AI Model Review · Muallif haqida</b> — Ahn Sangsun (M-Robo kompaniyasi rahbari). Asl profil: <a href=\"https://ahnboat.xyz/my_profile/\" target=\"_blank\" rel=\"noopener\">ahnboat.xyz/my_profile</a>",
+    "line2": "Money-Robo — muallif yuritadigan xizmatning maskot qahramoni; boshqa qahramonlar real shaxslarni anglatmaydi. Patent raqamlari va sanalari patent guvohnomalarining asl nusxasi asosida yozilgan. Rasmlardagi yozuvlar asl holicha qoldirilgan."
+  }
+}

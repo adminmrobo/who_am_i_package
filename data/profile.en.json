@@ -1,0 +1,1187 @@
+{
+  "meta": {
+    "lang": "en",
+    "updated": "2026-10-19",
+    "title": "About the Author — Ahn Sangsun (Reon Ahn)",
+    "description": "Ahn Sangsun, author of the AI Model Review series. CEO of M-Robo Co., Ltd. and publisher of Money-Robo, a robot-journalism newspaper. Patents, books, teaching and awards on one screen."
+  },
+  "ui": {
+    "skip": "Skip to main content",
+    "langLabel": "Language",
+    "langBanner": "Choose a language",
+    "tocLabel": "On this page",
+    "toc": {
+      "numbers": "At a glance",
+      "about": "About",
+      "work": "Career",
+      "robo": "Money-Robo",
+      "ip": "Patents",
+      "pubs": "Books & papers",
+      "teach": "Teaching",
+      "elearn": "E-learning",
+      "proj": "Public projects",
+      "awards": "Awards",
+      "edu": "Education & activities"
+    },
+    "names": {
+      "fly": "Fruit Fly Researcher",
+      "robo": "Money-Robo",
+      "asst": "Assistant"
+    },
+    "talkLabel": "A chat among the lab crew",
+    "now": "Present",
+    "all": "All",
+    "countFmt": "{label} {n}",
+    "rangeFmt": "{from} – {to}",
+    "zoomLabel": "View larger image",
+    "close": "Close",
+    "updatedFmt": "Last updated {d}"
+  },
+  "hero": {
+    "sceneAlt": "The lab at night. The Doctor smiles and points at a neural network on the screen, the Assistant types with a sleepy face, and the Fruit Fly Researcher in a helmet stands on the desk",
+    "groupLabel": "Money-Robo says hello",
+    "h1": "About the Author — Ahn Sangsun",
+    "h1small": "Reon Ahn",
+    "line": "He wrote this series, and he's the boss who built me. PhD in economics, publisher of a robot-reporter newspaper, {patents} patents. Numbers move faster than words, so check the scoreboard first.",
+    "btnNumbers": "See the numbers",
+    "btnContact": "Contact",
+    "btnHome": "Back to the series"
+  },
+  "numbers": {
+    "h2": "The numbers at a glance",
+    "lead": "Each number below is counted straight from the lists on this page. Click a box to jump to its list.",
+    "kpi": {
+      "patents": [
+        "Registered patents",
+        "Plus 10 applications"
+      ],
+      "awards": [
+        "Awards",
+        "{minister} at minister or agency-head level"
+      ],
+      "schools": [
+        "Schools taught at",
+        "Teaching at {teachNow} now"
+      ],
+      "pubs": [
+        "Papers & talks",
+        "1 book"
+      ],
+      "proj": [
+        "Public projects",
+        "Lead PM on {pm}"
+      ],
+      "elearn": [
+        "E-learning courses",
+        "STEP content expert"
+      ]
+    }
+  },
+  "talk": {
+    "numbers": [
+      {
+        "who": "fly",
+        "mood": "point",
+        "text": "{awards} awards? So how many are hackathons?"
+      },
+      {
+        "who": "robo",
+        "mood": "chart",
+        "text": "{hack}. Every one came from coding all night. Great return on the investment."
+      },
+      {
+        "who": "asst",
+        "mood": "firm",
+        "text": "I recounted the list below one by one. That's {hack} hackathons and {minister} minister- or agency-head-level awards."
+      }
+    ],
+    "robo": [
+      {
+        "who": "fly",
+        "mood": "clip",
+        "text": "You write articles that fast? Who catches the mistakes?"
+      },
+      {
+        "who": "robo",
+        "mood": "happy",
+        "text": "I take the numbers straight from the filings. Doubt is your job. Speed is mine."
+      },
+      {
+        "who": "asst",
+        "mood": "spark",
+        "text": "Money-Robo launched in August 2019. That's already more than {roboYears} years."
+      }
+    ],
+    "teach": [
+      {
+        "who": "fly",
+        "mood": "coffee",
+        "text": "{schools} schools? Even with wings, I couldn't commute to all that."
+      },
+      {
+        "who": "robo",
+        "mood": "smile",
+        "text": "It's a diversified portfolio. He's still invested in {teachNow} at once."
+      },
+      {
+        "who": "asst",
+        "mood": "sigh",
+        "text": "The table has {courses} entries in total. If the school is the same but the department differs, I listed it separately."
+      }
+    ],
+    "edu": [
+      {
+        "who": "fly",
+        "mood": "arms",
+        "text": "So an economics PhD teaches AI. That's why you only talk about money."
+      },
+      {
+        "who": "robo",
+        "mood": "wow",
+        "text": "…Busted. But all through the series, the verdict comes from data."
+      },
+      {
+        "who": "asst",
+        "mood": "smile",
+        "text": "When a new course or patent comes in, I'll update this record right away. The last update date is at the very bottom."
+      }
+    ]
+  },
+  "about": {
+    "h2": "About",
+    "infoH": "Basic Info",
+    "rows": [
+      [
+        "Name",
+        "Ahn Sangsun (Ahn Sang Sun · Reon Ahn)"
+      ],
+      [
+        "Current role",
+        "CEO, M-Robo Co., Ltd. · Publisher, Money-Robo"
+      ],
+      [
+        "Degree",
+        "PhD in Economics (Dongguk University, Mathematical Microeconomics)"
+      ],
+      [
+        "Email",
+        "sangsun.ahn@gmail.com"
+      ]
+    ],
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/saladent/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/sangsun.ahn.5"
+      },
+      {
+        "label": "ahnboat.xyz",
+        "url": "https://ahnboat.xyz"
+      },
+      {
+        "label": "Money-Robo",
+        "url": "https://money-robo.com/home/money-robo-intro/"
+      },
+      {
+        "label": "Papers & projects (Notion)",
+        "url": "https://www.notion.so/mrobo2016/Reon-Ahn-s-Project-04e6d05b2f7744bbba3df0671ca4a085"
+      }
+    ],
+    "bioH": "Who is he?",
+    "bio": [
+      "After working at Korea Electrical Safety Corporation and Maeil Business Newspaper, he founded <mark>M-Robo Co., Ltd.</mark>, a spin-off venture of Maeil Business Newspaper, and now runs it as CEO. M-Robo began as an in-house venture of a news company. It provided a robot reporter (StockBot) to Kukmin Ilbo and carried out projects with the Korea Internet & Security Agency (KISA), the Korea Press Foundation, the Korea Communications Agency (KCA) and others. Today it publishes its own AI news outlet, <mark>Money-Robo</mark>.",
+      "As CEO, he won the Asia Open Data Hackathon and twice received the Minister of the Interior and Safety Award for his work in data startups. He is the inventor of 5 patents in AI and blockchain, and the author of the book “AI Crime and Self-Defense”.",
+      "He developed fintech, statistics and AI e-learning content for the KOREATECH Online Lifelong Education Institute, and teaches data and AI courses at many universities, including Kookmin University and Hoseo University."
+    ]
+  },
+  "work": {
+    "h2": "Career",
+    "lead": "Most recent first. A teal border means he is still doing it.",
+    "items": [
+      {
+        "title": "CEO, media startup M-Robo",
+        "from": "2016.06",
+        "to": ""
+      },
+      {
+        "title": "Publisher, robot-journalism online newspaper \"Money-Robo\"",
+        "from": "2019.08",
+        "to": ""
+      },
+      {
+        "title": "Adjunct Professor, Fintech Support Center, Korea Management Association (KMA) — financial data analysis & AI",
+        "from": "2020.07",
+        "to": "2025.11"
+      },
+      {
+        "title": "Data Consultant, National Information Society Agency (NIA)",
+        "from": "2022.03",
+        "to": "2022.12"
+      },
+      {
+        "title": "Guest Lecturer in Fintech & Data Science, The Asia Business Daily",
+        "from": "2019.08",
+        "to": "2022.07"
+      },
+      {
+        "title": "Team Leader, In-house Venture Team, Maekyung Media Group",
+        "from": "2015.11",
+        "to": "2016.05"
+      },
+      {
+        "title": "Researcher, Economic & Management Research Institute, Newsroom, Maeil Business Newspaper",
+        "from": "2014.04",
+        "to": "2015.10"
+      },
+      {
+        "title": "Staff, Finance Management Dept. & Labor Welfare Dept., Korea Electrical Safety Corporation",
+        "from": "2011.02",
+        "to": "2014.04"
+      },
+      {
+        "title": "Intern Researcher, Forest Policy Research Division, Korea Rural Economic Institute",
+        "from": "2009.07",
+        "to": "2011.01"
+      },
+      {
+        "title": "Intern Researcher, Economic & Management Research Institute, Newsroom, Maeil Business Newspaper",
+        "from": "2008.07",
+        "to": "2009.07"
+      },
+      {
+        "title": "Research Assistant, Industry-Academic Cooperation Foundation, Semyung University",
+        "from": "2008.01",
+        "to": "2008.07"
+      }
+    ]
+  },
+  "robo": {
+    "h2": "Robot-journalism project — Money-Robo",
+    "lead": "An online newspaper that reads data and writes stock-market articles on its own. The Money-Robo character in this series is this service's mascot.",
+    "imgAlt": "The Money-Robo homepage. Under the robot logo, a ticker of index prices scrolls by, and automatically written disclosure headlines are listed next to stock charts of KOSDAQ companies",
+    "caption": "Money-Robo homepage — automatically written disclosure articles with stock charts",
+    "cardH": "What does it do?",
+    "items": [
+      "<b>2016.06 ~</b> Founded the media startup M-Robo, CEO",
+      "<b>2019.08 ~</b> Publishes \"Money-Robo\", an online newspaper based on robot journalism",
+      "Provided the robot reporter <b>StockBot</b> to Kukmin Ilbo",
+      "Generates articles on stock disclosures, indexes and the US stock market directly from data",
+      "Related patents: device for generating stock articles (10-2135712), cryptocurrency analysis news service (10-2618473)"
+    ],
+    "links": [
+      {
+        "label": "See the service intro",
+        "url": "https://money-robo.com/home/money-robo-intro/"
+      },
+      {
+        "label": "Intro video (YouTube)",
+        "url": "https://www.youtube.com/watch?v=CXmNDfDT1j0"
+      }
+    ]
+  },
+  "ip": {
+    "h2": "Patents — {patents} registered",
+    "lead": "Click a field to filter. Click a certificate to see it larger. There are also 10 applications, such as \"Method for measuring the volatility of virtual assets such as cryptocurrency\" (10-2019-0010699).",
+    "chipsLabel": "Filter patents by field",
+    "fields": {
+      "j": "Robot journalism",
+      "e": "Energy & climate",
+      "bc": "Blockchain",
+      "r": "Recommendation"
+    },
+    "noFmt": "No. {no}",
+    "datesFmt": "Filed {filed} · Registered {reg}",
+    "ownerFmt": "Patent holder: {owner}",
+    "altFmt": "Patent certificate No. {no}",
+    "capFmt": "Patent No. {no} — {title}",
+    "tlH": "From filing to registration",
+    "tlSrFmt": "{title}: filed {filed}, registered {reg}, about {years} years",
+    "tlNote": "The left end of each bar is the filing date, and the right end is the registration date. On average, it took <b>{avg} years</b> from filing to registration.",
+    "items": [
+      {
+        "no": "10-2135712",
+        "title": "Device and method for generating stock articles",
+        "field": "j",
+        "app": "10-2017-0183467",
+        "filed": "2017.12.29",
+        "reg": "2020.07.14",
+        "owner": "M-Robo Co., Ltd.",
+        "img": "p1"
+      },
+      {
+        "no": "10-2486672",
+        "title": "System and method for predicting heat-wave damage using solar power data",
+        "field": "e",
+        "app": "10-2018-0150546",
+        "filed": "2018.11.29",
+        "reg": "2023.01.05",
+        "owner": "M-Robo Co., Ltd.",
+        "img": "p2"
+      },
+      {
+        "no": "10-2555652",
+        "title": "System and method for detecting anomalies by monitoring blockchain data",
+        "field": "bc",
+        "app": "10-2018-0150559",
+        "filed": "2018.11.29",
+        "reg": "2023.07.11",
+        "owner": "Ahn Sangsun",
+        "img": "p3"
+      },
+      {
+        "no": "10-2618473",
+        "title": "System and method for a cryptocurrency analysis news content service using robot journalism",
+        "field": "j",
+        "app": "10-2018-0050193",
+        "filed": "2018.04.30",
+        "reg": "2023.12.21",
+        "owner": "Ahn Sangsun",
+        "img": "p4"
+      },
+      {
+        "no": "10-2666665",
+        "title": "Image recommendation method, device, computer-readable recording medium and computer program",
+        "field": "r",
+        "app": "10-2021-0060289",
+        "filed": "2021.05.10",
+        "reg": "2024.05.13",
+        "owner": "M-Robo Co., Ltd.",
+        "img": "p5"
+      }
+    ]
+  },
+  "pubs": {
+    "h2": "Books and papers",
+    "book": {
+      "title": "“AI Crime and Self-Defense”",
+      "alt": "Cover of the book “AI Crime and Self-Defense”. Inside a border of blue diagonal stripes are the title, a short description and a photo of the author",
+      "caption": "“AI Crime and Self-Defense” · CommunicationBooks, 2025 · AI Series",
+      "desc": "The book collects real cases of AI being used for crime, and asks why criminals choose AI through the lens of the economics of crime. Starting from the view that criminals also weigh costs and benefits, it explains how AI has changed the cost structure and profit model of crime."
+    },
+    "chipsLabel": "Filter papers by type",
+    "kinds": {
+      "j": "Journal",
+      "c": "Conference & talk",
+      "o": "Report"
+    },
+    "soloLabel": "Sole author",
+    "items": [
+      {
+        "date": "2025.07",
+        "title": "A study on household expenditure prediction models using the Korean Retirement and Income Study data: an AI model-based approach",
+        "src": "Future Society, Vol. 16, No. 2 · KCI-listed journal",
+        "kind": "j",
+        "solo": true,
+        "url": "https://ifso.iscu.ac.kr/02_res/sub2_1_view.asp?idx=508"
+      },
+      {
+        "date": "2025.05",
+        "title": "A study on household expenditure prediction models using the Korean Retirement and Income Study data: an AI approach",
+        "src": "Presented at the KReIS Conference · National Pension Research Institute, National Pension Service",
+        "kind": "c",
+        "solo": false,
+        "url": "https://drive.google.com/file/d/1LbYLSxtmmWZGBAwKHrnaLMIA-RX4dCD0/view?usp=sharing"
+      },
+      {
+        "date": "2025.03",
+        "title": "A study on an algorithm for detecting suspected drug deals from SNS text: focusing on pattern and context analysis",
+        "src": "Future Society, Vol. 16, No. 1 · KCI-listed journal",
+        "kind": "j",
+        "solo": true,
+        "url": "https://ifso.iscu.ac.kr/02_res/sub2_1_view.asp?idx=490"
+      },
+      {
+        "date": "2024.11",
+        "title": "Statistics-based countermeasures against adversarial data for securing anomaly detection models in finance — empirical analysis and simulation results",
+        "src": "Future Society, Vol. 15, No. 3 · KCI-listed journal",
+        "kind": "j",
+        "solo": true,
+        "url": "https://ifso.iscu.ac.kr/02_res/sub2_1_view.asp?idx=464"
+      },
+      {
+        "date": "2024.06",
+        "title": "An AI solution for detecting SNS posts based on virtual character traits",
+        "src": "Poster at the 2024 Summer Newmedia Party, Seoul Media Institute of Technology",
+        "kind": "c",
+        "solo": false,
+        "url": ""
+      },
+      {
+        "date": "2024.05",
+        "title": "Machine learning models using industrial accident panel data",
+        "src": "Poster at the 10th Panel Study of Workers' Compensation Insurance Conference · Labor Welfare Research Institute",
+        "kind": "c",
+        "solo": false,
+        "url": ""
+      },
+      {
+        "date": "2024.02",
+        "title": "Analysis and forecasting of virtual asset time-series data — comparing time-series and AI models, and suggesting improvements",
+        "src": "Future Society, Vol. 15, No. 1 · KCI-listed journal",
+        "kind": "j",
+        "solo": true,
+        "url": "https://ifso.iscu.ac.kr/02_res/sub2_1_view.asp?idx=379"
+      },
+      {
+        "date": "2021.12",
+        "title": "A study on the informational efficiency of cryptocurrency assets",
+        "src": "Future Society, Vol. 12, No. 2",
+        "kind": "j",
+        "solo": true,
+        "url": "https://ifso.iscu.ac.kr/02_res/sub2_1_view.asp?idx=204"
+      },
+      {
+        "date": "2018",
+        "title": "An analysis of the economic performance of ERC-20",
+        "src": "Talk at EDCON 2018",
+        "kind": "c",
+        "solo": false,
+        "url": "https://decenter.kr/NewsView/1VJB0BLUD4"
+      },
+      {
+        "date": "—",
+        "title": "An analysis of the economic performance and efficiency of media-based blockchains",
+        "src": "50th Anniversary Conference of the Korean Society for Journalism and Communication Studies",
+        "kind": "c",
+        "solo": false,
+        "url": ""
+      },
+      {
+        "date": "2017",
+        "title": "A study on the self-employment market of middle-aged and older people — comparing new and existing businesses",
+        "src": "2017 Korean Labor & Income Panel Conference · Korea Employment Information Service, Ministry of Employment and Labor",
+        "kind": "c",
+        "solo": false,
+        "url": ""
+      },
+      {
+        "date": "—",
+        "title": "Artificial intelligence and robot journalism",
+        "src": "KISTI MARKET REPORT, special issue on AI",
+        "kind": "o",
+        "solo": false,
+        "url": ""
+      }
+    ]
+  },
+  "teach": {
+    "h2": "Teaching history",
+    "lead": "Schools and courses he has taught so far. Each bar is a teaching period, and the yellow vertical line is today.",
+    "chipsLabel": "Filter teaching history",
+    "chipAll": "All {n}",
+    "chipNow": "Teaching now {n}",
+    "chipProf": "Adjunct / Visiting Professor {n}",
+    "legendNow": "Teaching now",
+    "legendPast": "Finished",
+    "legendToday": "Today",
+    "barFmt": "{school}, {subjects}, from {from} to {to}",
+    "tableH": "Full table",
+    "th": [
+      "School · Department",
+      "Courses",
+      "Position",
+      "Period"
+    ],
+    "items": [
+      {
+        "school": "Gachon University",
+        "dept": "Dept. of Accounting and Taxation, College of Business",
+        "subjects": "Python and Accounting Data Analysis",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2026.09",
+        "to": ""
+      },
+      {
+        "school": "Kongju National University",
+        "dept": "Graduate School of Green Smart Architecture",
+        "subjects": "Data Analysis with AI, Smart Process Optimization with AI",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2026.03",
+        "to": ""
+      },
+      {
+        "school": "Kyonggi University",
+        "dept": "Dept. of AI Convergence for SMEs",
+        "subjects": "AI Programming, Smart Manufacturing",
+        "role": "Adjunct Professor",
+        "roleType": "prof",
+        "from": "2026.03",
+        "to": ""
+      },
+      {
+        "school": "Korea University of Technology and Education (KOREATECH)",
+        "dept": "Dept. of Employment Service Policy",
+        "subjects": "Labor Economics",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2026.03",
+        "to": ""
+      },
+      {
+        "school": "University of Science and Technology (UST)",
+        "dept": "",
+        "subjects": "Artificial Intelligence (common course)",
+        "role": "Adjunct Professor",
+        "roleType": "prof",
+        "from": "2025.03",
+        "to": "2025.12"
+      },
+      {
+        "school": "Open Cyber University of Korea",
+        "dept": "Dept. of AI Convergence",
+        "subjects": "Data Science for Business",
+        "role": "Visiting Professor",
+        "roleType": "prof",
+        "from": "2025.09",
+        "to": ""
+      },
+      {
+        "school": "Eulji University",
+        "dept": "Dept. of Biomedical Laboratory Science",
+        "subjects": "Health Statistics with R",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2024.03",
+        "to": ""
+      },
+      {
+        "school": "Hanbat National University",
+        "dept": "Dept. of Economics",
+        "subjects": "Econometrics, The Stock Market and Stock Prices",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2024.09",
+        "to": "2026.06"
+      },
+      {
+        "school": "Hannam University",
+        "dept": "Talmage College of Liberal Arts and Convergence",
+        "subjects": "Strategies for Using Generative AI",
+        "role": "Adjunct Professor / Lecturer",
+        "roleType": "prof",
+        "from": "2024.09",
+        "to": ""
+      },
+      {
+        "school": "Seoul Media Institute of Technology",
+        "dept": "Dept. of AI Application Software",
+        "subjects": "Financial Accounting and Investment Management, AI Business case study (taught in English), Data-Driven Accounting Analysis and Investment Strategy, Financial Accounting and Investment Management (taught in English)",
+        "role": "Adjunct Professor",
+        "roleType": "prof",
+        "from": "2024.03",
+        "to": ""
+      },
+      {
+        "school": "Kookmin University",
+        "dept": "Graduate School of Software Convergence",
+        "subjects": "Machine Learning Project, AI Application Systems",
+        "role": "Adjunct Professor",
+        "roleType": "prof",
+        "from": "2023.09",
+        "to": ""
+      },
+      {
+        "school": "Hoseo University",
+        "dept": "Division of Business Administration",
+        "subjects": "Business Statistics, Data Analysis",
+        "role": "Adjunct Professor",
+        "roleType": "prof",
+        "from": "2023.03",
+        "to": ""
+      },
+      {
+        "school": "Seoul School of Integrated Sciences and Technologies (ASSIST)",
+        "dept": "Finance MBA Program",
+        "subjects": "Financial Big Data Analysis Module",
+        "role": "Visiting Professor",
+        "roleType": "prof",
+        "from": "2022.09",
+        "to": "2023.06"
+      },
+      {
+        "school": "Soongsil University",
+        "dept": "School of Finance",
+        "subjects": "Financial Machine Learning, Financial Big Data Analysis, and more",
+        "role": "Adjunct Professor",
+        "roleType": "prof",
+        "from": "2021.03",
+        "to": "2023.02"
+      },
+      {
+        "school": "Kangnam University",
+        "dept": "Division of ICT, College of Engineering",
+        "subjects": "Understanding and Analyzing Public Data, Statistical Data Analysis, Database Basics, Senior Data Analysis, Project Management",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2021.03",
+        "to": "2023.12"
+      },
+      {
+        "school": "Kangnam University",
+        "dept": "Division of Electronic and Semiconductor Engineering",
+        "subjects": "Database Design, Applied Statistics, Smart Factory Data Analysis, Data Processing and Analysis Techniques, Information Systems Analysis and Design, Data Visualization, Python Machine Learning",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2024.03",
+        "to": ""
+      },
+      {
+        "school": "Baewha Women's University",
+        "dept": "Dept. of Business Administration",
+        "subjects": "Data Analysis (Excel)",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2021.09",
+        "to": "2021.12"
+      },
+      {
+        "school": "The Catholic University of Korea",
+        "dept": "General Education",
+        "subjects": "The Science of Chance: Statistics",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2020.03",
+        "to": ""
+      },
+      {
+        "school": "Seoul Cyber University",
+        "dept": "Dept. of Finance and Insurance",
+        "subjects": "Finance in the Fourth Industrial Revolution",
+        "role": "Adjunct Professor",
+        "roleType": "prof",
+        "from": "2020.03",
+        "to": ""
+      },
+      {
+        "school": "Hanbat National University",
+        "dept": "Dept. of Entrepreneurship and Management",
+        "subjects": "Understanding E-Business, Business Management and Information Technology",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2020.03",
+        "to": "2023.02"
+      },
+      {
+        "school": "Kumoh National Institute of Technology",
+        "dept": "Graduate School of Consulting",
+        "subjects": "ICT Application Business Models, Blockchain Business Models, AI Case Studies, and more",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2022.03",
+        "to": "2023.02"
+      },
+      {
+        "school": "Jeju National University",
+        "dept": "Graduate School of Public Health",
+        "subjects": "Health Statistics, Advanced Nursing Statistics",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2021.03",
+        "to": "2025.12"
+      },
+      {
+        "school": "Eulji University",
+        "dept": "Dept. of Funeral Service",
+        "subjects": "Introduction to Health Statistics",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2021.03",
+        "to": "2023.02"
+      },
+      {
+        "school": "Jeju Tourism University",
+        "dept": "Division of Tourism",
+        "subjects": "The Fourth Industrial Revolution and Big Data",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2021.03",
+        "to": "2021.06"
+      },
+      {
+        "school": "Korea National Sport University",
+        "dept": "General Education",
+        "subjects": "Economics in Everyday Life, Understanding Economics",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2020.03",
+        "to": "2026.02"
+      },
+      {
+        "school": "KC University",
+        "dept": "Dept. of Business and Big Data",
+        "subjects": "Investment Theory, Financial Analysis",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2020.03",
+        "to": "2021.02"
+      },
+      {
+        "school": "Kangwon National University",
+        "dept": "Dept. of Economics",
+        "subjects": "Financial Econometrics, Econometrics, Principles of Economics",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2020.03",
+        "to": "2021.02"
+      },
+      {
+        "school": "Inha University",
+        "dept": "Graduate School of Future Convergence Technology",
+        "subjects": "Startup and Innovation",
+        "role": "Adjunct Professor",
+        "roleType": "prof",
+        "from": "2019.08",
+        "to": "2020.06"
+      },
+      {
+        "school": "Gachon University",
+        "dept": "General Education",
+        "subjects": "Startups and Intellectual Property, and more",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2019.03",
+        "to": "2025.02"
+      },
+      {
+        "school": "Daejeon University",
+        "dept": "General Education",
+        "subjects": "Cryptocurrency Technology, Using Statistics",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2019.09",
+        "to": "2025.06"
+      },
+      {
+        "school": "Baekseok University",
+        "dept": "General Education",
+        "subjects": "Understanding the Fourth Industrial Revolution",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2019.09",
+        "to": "2023.02"
+      },
+      {
+        "school": "Hanbat National University",
+        "dept": "General Education",
+        "subjects": "Future Technology and Society",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2019.03",
+        "to": "2019.08"
+      },
+      {
+        "school": "Korea University of Media Arts",
+        "dept": "General Education",
+        "subjects": "Content and the Fourth Industrial Revolution",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2019.03",
+        "to": "2019.08"
+      },
+      {
+        "school": "Woosong University",
+        "dept": "General Education",
+        "subjects": "The Fourth Industrial Revolution and Big Data",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2017.09",
+        "to": "2019.06"
+      },
+      {
+        "school": "Kongju National University",
+        "dept": "College of Industrial Science",
+        "subjects": "Social Science Research Methods",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2017.03",
+        "to": "2017.06"
+      },
+      {
+        "school": "Dongguk University",
+        "dept": "Dept. of Economics",
+        "subjects": "Information Economics",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2017.03",
+        "to": "2017.06"
+      },
+      {
+        "school": "Dongguk University",
+        "dept": "Dept. of Economics",
+        "subjects": "Principles of Microeconomics, Microeconomics",
+        "role": "Lecturer",
+        "roleType": "lect",
+        "from": "2014.09",
+        "to": "2015.06"
+      }
+    ]
+  },
+  "elearn": {
+    "h2": "E-learning content",
+    "lead": "He took part as a content expert in free e-learning courses from the KOREATECH Online Lifelong Education Institute (STEP).",
+    "items": [
+      {
+        "img": "c_fintech",
+        "meta": "2024 · 13-hour e-learning",
+        "title": "Fintech Data Analysis Basics",
+        "desc": "From the basics of handling financial data to analysis. Works on both PC and mobile.",
+        "alt": "Banner for the Fintech Data Analysis Basics course. The course title is on the left, and a photo of the instructor and a table of course details are on the right",
+        "btn": "View course",
+        "url": "https://link.step.or.kr/brqEyc"
+      },
+      {
+        "img": "",
+        "meta": "2025 · E-learning",
+        "title": "Bayesian Statistics for Data Scientists",
+        "desc": "Covers the Bayesian method of updating prior beliefs with data, along with its uses in data science.",
+        "alt": "Cover of the Bayesian Statistics for Data Scientists course",
+        "btn": "Find on STEP",
+        "url": "https://www.step.or.kr/"
+      },
+      {
+        "img": "c_nlp",
+        "meta": "2025 · 8-hour e-learning",
+        "title": "[K-Digital] AI Natural Language Processing",
+        "desc": "Learn the workflow and models of natural language data analysis, lesson by lesson. Rated five stars.",
+        "alt": "Course page for [K-Digital] AI Natural Language Processing, showing a five-star rating, 8 hours of study time and the lesson list",
+        "btn": "Find on STEP",
+        "url": "https://www.step.or.kr/"
+      }
+    ]
+  },
+  "proj": {
+    "h2": "Public projects",
+    "lead": "His roles in government and public-agency programs. Most of the time, he was the lead PM.",
+    "th": [
+      "Period",
+      "Project (program)",
+      "Role",
+      "Lead agency (partners)"
+    ],
+    "items": [
+      {
+        "from": "2026.09",
+        "to": "2026.12",
+        "title": "Comparative analysis of the social costs of drug crime and of addiction rehabilitation in correctional institutions",
+        "role": "Co-researcher",
+        "roleType": "other",
+        "org": "Ministry of Justice, Industry-Academic Cooperation Foundation of Semyung University"
+      },
+      {
+        "from": "2026.08",
+        "to": "2026.11",
+        "title": "Field-based AX instructor training program — Manufacturing-site AX course (manufacturing / management support)",
+        "role": "Curriculum design · Teaching",
+        "roleType": "other",
+        "org": "Korea Women IT Entrepreneurs Association, National IT Industry Promotion Agency (NIPA), Ulsan Information Technology Industry Promotion Agency"
+      },
+      {
+        "from": "2021.06",
+        "to": "2025.12",
+        "title": "Building AI-fintech training modules for working professionals, and lead instructor",
+        "role": "Co-developer",
+        "roleType": "other",
+        "org": "National IT Industry Promotion Agency (NIPA) (Fintech Support Center, Korea Management Association)"
+      },
+      {
+        "from": "2021.06",
+        "to": "2022.02",
+        "title": "Contactless Startup Support Program (media)",
+        "role": "Lead PM",
+        "roleType": "pm",
+        "org": "Korea Institute of Startup & Entrepreneurship Development (KISED), Korea Communications Agency (KCA)"
+      },
+      {
+        "from": "2021.06",
+        "to": "2021.12",
+        "title": "Fintech API Development Support Program",
+        "role": "Lead PM",
+        "roleType": "pm",
+        "org": "Korea Internet & Security Agency (KISA)"
+      },
+      {
+        "from": "2020.06",
+        "to": "2020.12",
+        "title": "Smart Media Commercialization Support Program",
+        "role": "Lead PM",
+        "roleType": "pm",
+        "org": "Korea Communications Agency (KCA)"
+      },
+      {
+        "from": "2019.06",
+        "to": "2019.12",
+        "title": "Fintech API Development Support Program",
+        "role": "Lead PM",
+        "roleType": "pm",
+        "org": "Korea Internet & Security Agency (KISA)"
+      },
+      {
+        "from": "2017.06",
+        "to": "2017.12",
+        "title": "News Big Data Startup Support Program",
+        "role": "Lead PM",
+        "roleType": "pm",
+        "org": "Korea Press Foundation"
+      },
+      {
+        "from": "2017.06",
+        "to": "2017.12",
+        "title": "Fintech API Development Support Program",
+        "role": "Lead PM",
+        "roleType": "pm",
+        "org": "Korea Internet & Security Agency (KISA)"
+      },
+      {
+        "from": "2017.06",
+        "to": "2018.02",
+        "title": "Leading University for Startups (specialized technology track)",
+        "role": "Lead PM",
+        "roleType": "pm",
+        "org": "Korea Institute of Startup & Entrepreneurship Development (KISED), Industry-Academic Cooperation Foundation of Dongguk University"
+      }
+    ]
+  },
+  "awards": {
+    "h2": "Awards",
+    "lead": "Click a bar to see only that year's awards. Click it again to go back to all. ★ marks a minister- or agency-head-level award.",
+    "chartH": "Awards by year",
+    "chartLabel": "Awards by year",
+    "barFmt": "{y}: {n}",
+    "listAllFmt": "All awards: {n}",
+    "listYearFmt": "Awards in {y}: {n}",
+    "starLabel": "Minister / agency-head level",
+    "items": [
+      {
+        "date": "2023.12",
+        "title": "Excellence Award, AI Hub Safe Zone Data Challenge — AI risk diagnosis service for musculoskeletal disorders in senior workers",
+        "org": "National Information Society Agency (NIA)",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2022.12",
+        "title": "Award for contributions to private startup support using public data",
+        "org": "Minister of the Interior and Safety Award",
+        "minister": true,
+        "hackathon": false
+      },
+      {
+        "date": "2022.10",
+        "title": "Excellence Award, Smart Media Commercialization",
+        "org": "President's Award, Korea Communications Agency (KCA)",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2021.11",
+        "title": "Special Prize, 3rd Big Data & AI Startup Competition",
+        "org": "Korea Gas Corporation (KOGAS)",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2020.12",
+        "title": "3rd place in the finals, Osaka–Korea Startup Pitching Competition",
+        "org": "KOTRA Osaka",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2019.07",
+        "title": "Grand Prize, Smart Media Camp X Jeonju",
+        "org": "President's Award, Korea Radio Promotion Agency",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2018.12",
+        "title": "Excellence Award, NTIS (National Science & Technology Information Service) Data Utilization Contest",
+        "org": "KISTI President's Award",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2018.09",
+        "title": "Winner, 2018 Asia Open Data Hackathon",
+        "org": "Minister of the Interior and Safety Award, HERE (organizer) Award",
+        "minister": true,
+        "hackathon": true
+      },
+      {
+        "date": "2018.08",
+        "title": "Excellence Award, Business Track, Ministry of Trade, Industry and Energy Data Contest",
+        "org": "CEO's Award, Korea Hydro & Nuclear Power (KHNP)",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2018.07",
+        "title": "Excellence Award, Public-Interest IP Service Contest",
+        "org": "President's Award, University of Seoul",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2018.06",
+        "title": "Excellence Award, 2018 IP Service Contest",
+        "org": "Commissioner's Award, Korean Intellectual Property Office (KIPO)",
+        "minister": true,
+        "hackathon": false
+      },
+      {
+        "date": "2016.11",
+        "title": "Encouragement Award, Fintech Financial API Hackathon",
+        "org": "President's Award, Korea Internet & Security Agency (KISA)",
+        "minister": false,
+        "hackathon": true
+      },
+      {
+        "date": "2016.11",
+        "title": "Encouragement Award, Smart Grid Hackathon",
+        "org": "President's Award, National Information Society Agency",
+        "minister": false,
+        "hackathon": true
+      },
+      {
+        "date": "2016.11",
+        "title": "Idea Contest on Using Fresh Forest Product Price Data",
+        "org": "President's Award, Korea Forestry Promotion Institute",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2016.10",
+        "title": "Award, Business Track, Gyeonggi Big Data Startup Competition",
+        "org": "Gyeonggi Province",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2015.11",
+        "title": "Innovation Award, 1st Maekyung Mediathon Hackathon",
+        "org": "Maekyung Media Group",
+        "minister": false,
+        "hackathon": true
+      },
+      {
+        "date": "2013.06",
+        "title": "Model Employee Commendation",
+        "org": "CEO's Award, Korea Electrical Safety Corporation",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2011.04",
+        "title": "Market Economy Research Institute Paper & Idea Contest",
+        "org": "President's Award, The Korea Economic Daily",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2010.11",
+        "title": "Grand Prize, Dongwon Academic Award Paper Contest, Dongguk University Graduate School",
+        "org": "Dongguk University",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2009.11",
+        "title": "Encouragement Award, Dongwon Academic Award Paper Contest, Dongguk University Graduate School",
+        "org": "Dongguk University",
+        "minister": false,
+        "hackathon": false
+      },
+      {
+        "date": "2009.02",
+        "title": "Excellence Award, Video Content Paper Contest",
+        "org": "—",
+        "minister": false,
+        "hackathon": false
+      }
+    ]
+  },
+  "edu": {
+    "h2": "Education and community activities",
+    "eduH": "Education",
+    "socialH": "Community activities",
+    "eduItems": [
+      {
+        "title": "PhD in Economics, Graduate School, Dongguk University",
+        "note": "Mathematical Microeconomics",
+        "from": "2009.09",
+        "to": "2012.08"
+      },
+      {
+        "title": "MA in Economics, Graduate School, Dongguk University",
+        "note": "",
+        "from": "2005.09",
+        "to": "2009.08"
+      },
+      {
+        "title": "BA, Dept. of Taxation and Accounting (College of Business) and Dept. of Economics, Dongguk University",
+        "note": "",
+        "from": "2001.03",
+        "to": "2005.08"
+      },
+      {
+        "title": "Completed the Yangjae Innovation R&CD AI Leader Training Program",
+        "note": "",
+        "from": "2018.03",
+        "to": "2018.12"
+      }
+    ],
+    "socialItems": [
+      {
+        "title": "External Advisor on Public Data Quality, Ministry of the Interior / National Information Society Agency",
+        "note": "",
+        "from": "2019.05",
+        "to": "2022.12"
+      },
+      {
+        "title": "Member, 7th Seoul Everyday Life Policy Participation Group",
+        "note": "",
+        "from": "2019.03",
+        "to": "2021.12"
+      },
+      {
+        "title": "Completed the Consumer IT Literacy School — Consumers Together (non-profit)",
+        "note": "",
+        "from": "2017.04",
+        "to": "2017.07"
+      },
+      {
+        "title": "Citizen Monitor for Information Disclosure, Ministry of the Interior",
+        "note": "",
+        "from": "2015.03",
+        "to": "2015.12"
+      },
+      {
+        "title": "Policy Monitor, Ministry of Economy and Finance",
+        "note": "",
+        "from": "2011.03",
+        "to": "2011.12"
+      },
+      {
+        "title": "Customer Panel Monitor (2nd cohort), Human Resources Development Service of Korea (HRDK)",
+        "note": "",
+        "from": "2011.03",
+        "to": "2011.12"
+      },
+      {
+        "title": "Pro bono business planning, social enterprise Gonggam Manse Co., Ltd.",
+        "note": "",
+        "from": "2010.03",
+        "to": "-"
+      }
+    ]
+  },
+  "footer": {
+    "line1": "<b>AI Model Review · About the Author</b> — Ahn Sangsun (CEO, M-Robo Co., Ltd.). Original profile: <a href=\"https://ahnboat.xyz/my_profile/\" target=\"_blank\" rel=\"noopener\">ahnboat.xyz/my_profile</a>",
+    "line2": "Money-Robo is the mascot of a service run by the author. The other characters do not represent real people. Patent numbers and dates follow the original patent certificates. Text inside the images is left as in the originals."
+  }
+}
