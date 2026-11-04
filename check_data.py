@@ -22,7 +22,7 @@ FIXED_KEYS = {
 }
 # 원본과 똑같아야 하는 특정 경로 (고유 명칭)
 FIXED_PATHS = {
-    "ui.names.robo", "ui.toc.robo", "about.infoH",
+    "ui.toc.robo", "about.infoH",   # ui.names.robo는 주판봇(AbaBot) 언어별 이름이라 번역함
     "about.links[0].label", "about.links[1].label", "about.links[2].label", "about.links[3].label",
 }
 HANGUL = re.compile(r"[가-힣ㄱ-ㆎ]")

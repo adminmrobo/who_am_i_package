@@ -240,7 +240,7 @@ who_am_i/
 
 ## 5. 연구실 식구들의 대화 `talk`
 
-대화는 네 곳(`numbers`, `robo`, `teach`, `edu`)에 있다. 한 곳에 세 줄이며 순서는 **초파리 → Money-Robo → 조수**다. 초파리(왼쪽)와 Money-Robo(오른쪽) 사이에 VS가 자동으로 들어간다. 조수는 아래 가운데에 점선 테두리(✎ 기록)로 나온다.
+대화는 네 곳(`numbers`, `robo`, `teach`, `edu`)에 있다. 한 곳에 세 줄이며 순서는 **초파리 → 주판봇 → 조수**다. 초파리(왼쪽)와 주판봇(오른쪽) 사이에 VS가 자동으로 들어간다. 조수는 아래 가운데에 점선 테두리(✎ 기록)로 나온다.
 
 ```json
 {"who": "asst", "mood": "firm", "text": "제가 아래 목록에서 하나씩 다시 셌어요. 해커톤 {hack}건, 장관·청장급 상 {minister}건이에요."}
@@ -249,7 +249,7 @@ who_am_i/
 | `who` | 이름 | 성격·말투 (시리즈 「캐릭터 이미지 설정」 기준) | 쓸 수 있는 `mood` (그림 파일) |
 |---|---|---|---|
 | `fly` | 초파리 연구원 | 의심하는 쪽. 반말, 짧은 질문. 생물 비유는 한 번까지 | `point` `clip` `arms` `coffee` |
-| `robo` | Money-Robo | 확신하는 쪽. 반말, 돈·투자 비유. 실제 종목·수익률·투자 권유는 말하지 않음 | `coin` `chart` `happy` `smile` `wow` |
+| `robo` | 주판봇 | 확신하는 쪽. 반말, 돈·투자 비유. 실제 종목·수익률·투자 권유는 말하지 않음 | `coin` `chart` `happy` `smile` `wow` |
 | `asst` | 조수 | 측정·기록 담당. 해요체, 숫자를 정확히. 승패 판정은 하지 않음 | `firm` `spark` `smile` `sigh` |
 
 - 대사는 한두 문장. 숫자는 자리표시(`{hack}` 등)로 써야 데이터가 바뀌어도 맞는다.
@@ -316,7 +316,8 @@ data/profile.ko.json 을 기준으로 data/profile.<언어>.json 을 갱신해 �
 | 초파리 연구원 | Fruit Fly Researcher | 果蝇研究员 | ショウジョウバエ研究員 | Drozofila tadqiqotchisi | Исследователь-дрозофила |
 | 조수 | Assistant | 助手 | 助手 | Yordamchi | Ассистент |
 | 박사 | the Doctor | 博士 | 博士 | Doktor | Доктор |
-| Money-Robo · M-Robo · Reon Ahn | (그대로) | (그대로) | (그대로) | (그대로) | (그대로) |
+| 주판봇 | AbaBot | 算盘宝 | アバボット | AbaBot | АбаБот |
+| Money-Robo(신문 이름) · M-Robo · Reon Ahn | (그대로) | (그대로) | (그대로) | (그대로) | (그대로) |
 | 『AI 범죄와 자기 방어』 | “AI Crime and Self-Defense” | 《AI犯罪与自我防御》 | 『AI犯罪と自己防衛』 | “AI jinoyatlari va oʻzini himoya qilish” | «ИИ-преступность и самозащита» |
 | 강사 / 겸임교수 / 객원교수 | Lecturer / Adjunct Professor / Visiting Professor | 讲师 / 兼职教授 / 客座教授 | 講師 / 兼任教授 / 客員教授 | oʻqituvchi (lektor) / qoʻshimcha professor / tashrif buyuruvchi professor | преподаватель / профессор по совместительству / приглашённый профессор |
 | 현재 | Present | 至今 | 現在 | hozirgacha | наст. время |

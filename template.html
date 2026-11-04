@@ -87,7 +87,7 @@ section.part{padding:60px 0 20px}
 @media (max-width:900px){.kpis{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media (max-width:520px){.kpis{grid-template-columns:repeat(2,minmax(0,1fr))}}
 
-/* 연구실 식구들의 대화: 초파리(왼쪽) VS Money-Robo(오른쪽), 조수(아래 가운데, 기록) */
+/* 연구실 식구들의 대화: 초파리(왼쪽) VS 주판봇(오른쪽), 조수(아래 가운데, 기록) */
 .talk{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);gap:14px;align-items:center;margin:28px 0 0}
 .talk .vsmark{font-family:var(--pix);font-size:22px;color:var(--amber);text-shadow:2px 2px 0 var(--shadow)}
 .say{display:grid;grid-template-columns:64px minmax(0,1fr);gap:12px;align-items:center;background:var(--deep);border:3px solid var(--line);padding:10px 14px;box-shadow:4px 4px 0 var(--shadow)}
@@ -467,7 +467,7 @@ var K=D.numbers.kpi;
 $('kpis').innerHTML=[['a','ip',N.patents,K.patents],['b','awards',N.awards,K.awards],['c','teach',N.schools,K.schools],['d','pubs',N.pubs,K.pubs],['e','proj',N.proj,K.proj],['f','elearn',N.elearn,K.elearn]]
  .map(function(k){return '<a class="kpi '+k[0]+'" href="#'+k[1]+'"><span class="v">'+k[2]+'</span><span class="k">'+esc(k[3][0])+'</span><span class="s">'+esc(fmt(k[3][1],N))+'</span></a>';}).join('');
 
-/* ===== 연구실 식구들의 대화 (초파리 VS Money-Robo, 조수는 기록) ===== */
+/* ===== 연구실 식구들의 대화 (초파리 VS 주판봇, 조수는 기록) ===== */
 document.querySelectorAll('[data-talk]').forEach(function(box){
   var lines=D.talk[box.dataset.talk]; box.setAttribute('aria-label',D.ui.talkLabel);
   var h='';
@@ -490,7 +490,7 @@ $('workList').innerHTML=D.work.items.map(function(w){
   return '<li class="stop'+(now?' now':'')+'"><span class="dot">'+w.from.slice(0,4)+'</span><div><h3>'+esc(w.title)+(now?'<span class="badge">'+esc(D.ui.now)+'</span>':'')+'</h3><span class="when">'+esc(range(w.from,w.to))+'</span></div></li>';
 }).join('');
 
-/* ===== Money-Robo ===== */
+/* ===== Money-Robo (신문 소개) ===== */
 $('roboItems').innerHTML=D.robo.items.map(function(x){return '<li>'+x+'</li>';}).join('');
 $('roboLinks').innerHTML=links(D.robo.links);
 

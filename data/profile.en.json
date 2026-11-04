@@ -2,7 +2,7 @@
   "meta": {
     "lang": "en",
     "updated": "2026-10-19",
-    "title": "Meet Ahn Sangsun, introduced by the Fruit Fly Researcher and Money-Robo (Reon Ahn)",
+    "title": "Meet Ahn Sangsun, introduced by the Fruit Fly Researcher and AbaBot (Reon Ahn)",
     "description": "Ahn Sangsun, author of the AI Model Review series. CEO of M-Robo Co., Ltd. and publisher of Money-Robo, a robot-journalism newspaper. Patents, books, teaching and awards on one screen."
   },
   "ui": {
@@ -25,7 +25,7 @@
     },
     "names": {
       "fly": "Fruit Fly Researcher",
-      "robo": "Money-Robo",
+      "robo": "AbaBot",
       "asst": "Assistant"
     },
     "talkLabel": "A chat among the lab crew",
@@ -39,8 +39,8 @@
   },
   "hero": {
     "sceneAlt": "The lab at night. The Doctor smiles and points at a neural network on the screen, the Assistant types with a sleepy face, and the Fruit Fly Researcher in a helmet stands on the desk",
-    "groupLabel": "Money-Robo says hello",
-    "h1": "Meet Ahn Sangsun, introduced by the Fruit Fly Researcher and Money-Robo",
+    "groupLabel": "AbaBot says hello",
+    "h1": "Meet Ahn Sangsun, introduced by the Fruit Fly Researcher and AbaBot",
     "h1small": "Reon Ahn",
     "line": "He wrote this series, and he's the boss who built me. PhD in economics, publisher of a robot-reporter newspaper, {patents} patents. Numbers move faster than words, so check the scoreboard first.",
     "btnNumbers": "See the numbers",
@@ -260,7 +260,7 @@
   },
   "robo": {
     "h2": "Robot-journalism project — Money-Robo",
-    "lead": "An online newspaper that reads data and writes stock-market articles on its own. The Money-Robo character in this series is this service's mascot.",
+    "lead": "An online newspaper that reads data and writes stock-market articles on its own. AbaBot, the lab robot in this series, is a separate character from this service.",
     "imgAlt": "The Money-Robo homepage. Under the robot logo, a ticker of index prices scrolls by, and automatically written disclosure headlines are listed next to stock charts of KOSDAQ companies",
     "caption": "Money-Robo homepage — automatically written disclosure articles with stock charts",
     "cardH": "What does it do?",
@@ -1182,6 +1182,6 @@
   },
   "footer": {
     "line1": "<b>AI Model Review · About the Author</b> — Ahn Sangsun (CEO, M-Robo Co., Ltd.). Original profile: <a href=\"https://ahnboat.xyz/my_profile/\" target=\"_blank\" rel=\"noopener\">ahnboat.xyz/my_profile</a>",
-    "line2": "Money-Robo is the mascot of a service run by the author. The other characters do not represent real people. Patent numbers and dates follow the original patent certificates. Text inside the images is left as in the originals."
+    "line2": "AbaBot and the other characters do not represent real people or any company's mascot. Patent numbers and dates follow the original patent certificates. Text inside the images is left as in the originals."
   }
 }

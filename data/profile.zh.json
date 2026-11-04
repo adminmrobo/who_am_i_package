@@ -2,7 +2,7 @@
   "meta": {
     "lang": "zh",
     "updated": "2026-10-19",
-    "title": "果蝇研究员与 Money-Robo 带你认识 Ahn Sangsun (Reon Ahn)",
+    "title": "果蝇研究员与算盘宝带你认识 Ahn Sangsun (Reon Ahn)",
     "description": "AI Model Review 系列的作者 Ahn Sangsun。M-Robo 株式会社代表，机器人新闻报纸 Money-Robo 发行人。专利、著作、授课、获奖经历一屏尽览。"
   },
   "ui": {
@@ -25,7 +25,7 @@
     },
     "names": {
       "fly": "果蝇研究员",
-      "robo": "Money-Robo",
+      "robo": "算盘宝",
       "asst": "助手"
     },
     "talkLabel": "研究室成员的对话",
@@ -39,8 +39,8 @@
   },
   "hero": {
     "sceneAlt": "夜晚的研究室。博士指着神经网络屏幕微笑，助手一脸困倦地敲着键盘，戴头盔的果蝇研究员站在桌上",
-    "groupLabel": "Money-Robo 的问候",
-    "h1": "果蝇研究员与 Money-Robo 带你认识 Ahn Sangsun",
+    "groupLabel": "算盘宝的问候",
+    "h1": "果蝇研究员与算盘宝带你认识 Ahn Sangsun",
     "h1small": "Reon Ahn",
     "line": "他是这个系列的作者，也是造出我的老板。经济学博士、机器人记者报纸发行人、专利{patents}项。数字比嘴快，先看记分板吧。",
     "btnNumbers": "看数字",
@@ -260,7 +260,7 @@
   },
   "robo": {
     "h2": "机器人新闻项目 — Money-Robo",
-    "lead": "这是一份读取数据、自动撰写证券新闻的网络报纸。本系列中的 Money-Robo 角色就是这项服务的吉祥物。",
+    "lead": "这是一份读取数据、自动撰写证券新闻的网络报纸。本系列的实验室机器人算盘宝是与这项服务无关的独立角色。",
     "imgAlt": "Money-Robo 主页。机器人标志下方滚动着指数行情条，KOSDAQ 个股的股价图旁列出自动撰写的公告新闻标题",
     "caption": "Money-Robo 主页 — 配有股价图的自动撰写公告新闻",
     "cardH": "做什么",
@@ -1182,6 +1182,6 @@
   },
   "footer": {
     "line1": "<b>AI Model Review · 作者介绍</b> — Ahn Sangsun（M-Robo 株式会社代表）。原始简介：<a href=\"https://ahnboat.xyz/my_profile/\" target=\"_blank\" rel=\"noopener\">ahnboat.xyz/my_profile</a>",
-    "line2": "Money-Robo 是作者运营的服务的吉祥物角色，其他登场人物并不代表真实人物。专利号和日期以专利证书原件为准。图中文字保留原样。"
+    "line2": "算盘宝等登场人物并不代表真实人物或任何公司的吉祥物。专利号和日期以专利证书原件为准。图中文字保留原样。"
   }
 }
